@@ -560,19 +560,19 @@
       "price": "758.00",
       "status": "0"
     },
-    "PIIC|29636|20260730|LOUNGERS ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "04:00 PM",
-      "date": "20260730",
-      "cat": "LOUNGERS ROWS",
-      "price": "522.00",
-      "status": "0"
-    },
     "PIIC|29636|20260730|PRIME ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
       "time": "04:00 PM",
       "date": "20260730",
       "cat": "PRIME ROWS",
+      "price": "522.00",
+      "status": "0"
+    },
+    "PIIC|29636|20260730|LOUNGERS ROWS": {
+      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
+      "time": "04:00 PM",
+      "date": "20260730",
+      "cat": "LOUNGERS ROWS",
       "price": "522.00",
       "status": "0"
     },
@@ -790,7 +790,7 @@
       "date": "20260730",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "1"
+      "status": "0"
     },
     "PNNG|37844|20260730|CLASSIC": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
@@ -862,134 +862,6 @@
       "date": "20260730",
       "cat": "CLASSIC",
       "price": "345.00",
-      "status": "3"
-    },
-    "ISTN|55015|20260730|Royal": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "10:30 AM",
-      "date": "20260730",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "2"
-    },
-    "ISTN|55015|20260730|Executive": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "10:30 AM",
-      "date": "20260730",
-      "cat": "Executive",
-      "price": "345.00",
-      "status": "3"
-    },
-    "ISTN|55016|20260730|Royal": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "01:30 PM",
-      "date": "20260730",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "1"
-    },
-    "ISTN|55016|20260730|Executive": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "01:30 PM",
-      "date": "20260730",
-      "cat": "Executive",
-      "price": "345.00",
-      "status": "3"
-    },
-    "ISTN|55017|20260730|Royal": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "04:30 PM",
-      "date": "20260730",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "2"
-    },
-    "ISTN|55017|20260730|Executive": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "04:30 PM",
-      "date": "20260730",
-      "cat": "Executive",
-      "price": "345.00",
-      "status": "3"
-    },
-    "ISTN|55018|20260730|Royal": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "07:30 PM",
-      "date": "20260730",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "1"
-    },
-    "ISTN|55018|20260730|Executive": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "07:30 PM",
-      "date": "20260730",
-      "cat": "Executive",
-      "price": "345.00",
-      "status": "3"
-    },
-    "ISTN|55019|20260730|Royal": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "10:30 PM",
-      "date": "20260730",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "0"
-    },
-    "ISTN|55019|20260730|Executive": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "10:30 PM",
-      "date": "20260730",
-      "cat": "Executive",
-      "price": "345.00",
-      "status": "3"
-    },
-    "MTHY|77834|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "09:00 AM",
-      "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MTHY|77835|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "11:45 AM",
-      "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MTHY|77836|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "02:30 PM",
-      "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MTHY|77837|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "05:15 PM",
-      "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MTHY|77838|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "08:00 PM",
-      "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MTHY|77839|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "10:45 PM",
-      "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
       "status": "3"
     },
     "PVTS|22994|20260730|RECLINER": {
@@ -1069,6 +941,134 @@
       "time": "11:00 PM",
       "date": "20260730",
       "cat": "CLASSIC",
+      "price": "345.00",
+      "status": "3"
+    },
+    "MTHY|77834|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "09:00 AM",
+      "date": "20260730",
+      "cat": "3D RECLINER",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MTHY|77835|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "11:45 AM",
+      "date": "20260730",
+      "cat": "3D RECLINER",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MTHY|77836|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "02:30 PM",
+      "date": "20260730",
+      "cat": "3D RECLINER",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MTHY|77837|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "05:15 PM",
+      "date": "20260730",
+      "cat": "3D RECLINER",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MTHY|77838|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "08:00 PM",
+      "date": "20260730",
+      "cat": "3D RECLINER",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MTHY|77839|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "10:45 PM",
+      "date": "20260730",
+      "cat": "3D RECLINER",
+      "price": "400.00",
+      "status": "3"
+    },
+    "ISTN|55015|20260730|Royal": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "10:30 AM",
+      "date": "20260730",
+      "cat": "Royal",
+      "price": "400.00",
+      "status": "2"
+    },
+    "ISTN|55015|20260730|Executive": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "10:30 AM",
+      "date": "20260730",
+      "cat": "Executive",
+      "price": "345.00",
+      "status": "3"
+    },
+    "ISTN|55016|20260730|Royal": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "01:30 PM",
+      "date": "20260730",
+      "cat": "Royal",
+      "price": "400.00",
+      "status": "1"
+    },
+    "ISTN|55016|20260730|Executive": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "01:30 PM",
+      "date": "20260730",
+      "cat": "Executive",
+      "price": "345.00",
+      "status": "3"
+    },
+    "ISTN|55017|20260730|Royal": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "04:30 PM",
+      "date": "20260730",
+      "cat": "Royal",
+      "price": "400.00",
+      "status": "2"
+    },
+    "ISTN|55017|20260730|Executive": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "04:30 PM",
+      "date": "20260730",
+      "cat": "Executive",
+      "price": "345.00",
+      "status": "3"
+    },
+    "ISTN|55018|20260730|Royal": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "07:30 PM",
+      "date": "20260730",
+      "cat": "Royal",
+      "price": "400.00",
+      "status": "1"
+    },
+    "ISTN|55018|20260730|Executive": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "07:30 PM",
+      "date": "20260730",
+      "cat": "Executive",
+      "price": "345.00",
+      "status": "3"
+    },
+    "ISTN|55019|20260730|Royal": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "10:30 PM",
+      "date": "20260730",
+      "cat": "Royal",
+      "price": "400.00",
+      "status": "0"
+    },
+    "ISTN|55019|20260730|Executive": {
+      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
+      "time": "10:30 PM",
+      "date": "20260730",
+      "cat": "Executive",
       "price": "345.00",
       "status": "3"
     },
@@ -1158,7 +1158,7 @@
       "date": "20260730",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "2"
+      "status": "1"
     },
     "PIMH|32411|20260730|CLASSIC": {
       "venue": "PVR: Irrum Manzil, Hyderabad",
@@ -1229,86 +1229,6 @@
       "time": "10:20 PM",
       "date": "20260730",
       "cat": "CLASSIC",
-      "price": "345.00",
-      "status": "3"
-    },
-    "INHY|133001|20260730|Royal": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "10:45 AM",
-      "date": "20260730",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "0"
-    },
-    "INHY|133001|20260730|Executive": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "10:45 AM",
-      "date": "20260730",
-      "cat": "Executive",
-      "price": "345.00",
-      "status": "3"
-    },
-    "INHY|133002|20260730|Royal": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "01:45 PM",
-      "date": "20260730",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "0"
-    },
-    "INHY|133002|20260730|Executive": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "01:45 PM",
-      "date": "20260730",
-      "cat": "Executive",
-      "price": "345.00",
-      "status": "3"
-    },
-    "INHY|133003|20260730|Royal": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "04:45 PM",
-      "date": "20260730",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "0"
-    },
-    "INHY|133003|20260730|Executive": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "04:45 PM",
-      "date": "20260730",
-      "cat": "Executive",
-      "price": "345.00",
-      "status": "3"
-    },
-    "INHY|133004|20260730|Royal": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "07:45 PM",
-      "date": "20260730",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "0"
-    },
-    "INHY|133004|20260730|Executive": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "07:45 PM",
-      "date": "20260730",
-      "cat": "Executive",
-      "price": "345.00",
-      "status": "3"
-    },
-    "INHY|133005|20260730|Royal": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "10:45 PM",
-      "date": "20260730",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "0"
-    },
-    "INHY|133005|20260730|Executive": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "10:45 PM",
-      "date": "20260730",
-      "cat": "Executive",
       "price": "345.00",
       "status": "3"
     },
@@ -1416,6 +1336,14 @@
       "price": "400.00",
       "status": "1"
     },
+    "IOMH|6853|20260730|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:30 PM",
+      "date": "20260730",
+      "cat": "CLASSIC ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
     "IOMH|6853|20260730|PRIME ROWS": {
       "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
       "time": "10:30 PM",
@@ -1424,11 +1352,83 @@
       "price": "345.00",
       "status": "3"
     },
-    "IOMH|6853|20260730|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:30 PM",
+    "INHY|133001|20260730|Royal": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "10:45 AM",
       "date": "20260730",
-      "cat": "CLASSIC ROWS",
+      "cat": "Royal",
+      "price": "400.00",
+      "status": "0"
+    },
+    "INHY|133001|20260730|Executive": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "10:45 AM",
+      "date": "20260730",
+      "cat": "Executive",
+      "price": "345.00",
+      "status": "3"
+    },
+    "INHY|133002|20260730|Royal": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "01:45 PM",
+      "date": "20260730",
+      "cat": "Royal",
+      "price": "400.00",
+      "status": "0"
+    },
+    "INHY|133002|20260730|Executive": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "01:45 PM",
+      "date": "20260730",
+      "cat": "Executive",
+      "price": "345.00",
+      "status": "3"
+    },
+    "INHY|133003|20260730|Royal": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "04:45 PM",
+      "date": "20260730",
+      "cat": "Royal",
+      "price": "400.00",
+      "status": "0"
+    },
+    "INHY|133003|20260730|Executive": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "04:45 PM",
+      "date": "20260730",
+      "cat": "Executive",
+      "price": "345.00",
+      "status": "3"
+    },
+    "INHY|133004|20260730|Royal": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "07:45 PM",
+      "date": "20260730",
+      "cat": "Royal",
+      "price": "400.00",
+      "status": "0"
+    },
+    "INHY|133004|20260730|Executive": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "07:45 PM",
+      "date": "20260730",
+      "cat": "Executive",
+      "price": "345.00",
+      "status": "3"
+    },
+    "INHY|133005|20260730|Royal": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "10:45 PM",
+      "date": "20260730",
+      "cat": "Royal",
+      "price": "400.00",
+      "status": "0"
+    },
+    "INHY|133005|20260730|Executive": {
+      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
+      "time": "10:45 PM",
+      "date": "20260730",
+      "cat": "Executive",
       "price": "345.00",
       "status": "3"
     },
@@ -1654,7 +1654,7 @@
       "date": "20260730",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "2"
+      "status": "1"
     },
     "PRCX|13461|20260730|CLASSIC": {
       "venue": "PVR: RK Cineplex, Hyderabad",
@@ -1718,7 +1718,7 @@
       "date": "20260730",
       "cat": "RECLINER ROWS",
       "price": "385.00",
-      "status": "2"
+      "status": "1"
     },
     "IVNM|8060|20260730|PRIME ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
@@ -1846,15 +1846,7 @@
       "date": "20260730",
       "cat": "RECLINER ROWS",
       "price": "385.00",
-      "status": "2"
-    },
-    "IVNM|8064|20260730|CLASSIC ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "10:45 PM",
-      "date": "20260730",
-      "cat": "CLASSIC ROWS",
-      "price": "330.00",
-      "status": "3"
+      "status": "1"
     },
     "IVNM|8064|20260730|PRIME PLUS ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
@@ -1869,6 +1861,14 @@
       "time": "10:45 PM",
       "date": "20260730",
       "cat": "PRIME ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
+    "IVNM|8064|20260730|CLASSIC ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "10:45 PM",
+      "date": "20260730",
+      "cat": "CLASSIC ROWS",
       "price": "330.00",
       "status": "3"
     }
