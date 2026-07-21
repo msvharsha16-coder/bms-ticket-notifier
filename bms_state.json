@@ -224,6 +224,22 @@
       "price": "325.00",
       "status": "0"
     },
+    "CTNR|9776|20260730|EXECUTIVE": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "09:45 AM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "345.00",
+      "status": "3"
+    },
+    "CTNR|9776|20260730|VIP": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "09:45 AM",
+      "date": "20260730",
+      "cat": "VIP",
+      "price": "400.00",
+      "status": "3"
+    },
     "CTNR|7299|20260730|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
       "time": "10:00 AM",
@@ -231,6 +247,22 @@
       "cat": "EXECUTIVE",
       "price": "345.00",
       "status": "0"
+    },
+    "CTNR|9761|20260730|EXECUTIVE": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "10:15 AM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "345.00",
+      "status": "3"
+    },
+    "CTNR|9761|20260730|VIP": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "10:15 AM",
+      "date": "20260730",
+      "cat": "VIP",
+      "price": "400.00",
+      "status": "3"
     },
     "CTNR|9588|20260730|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
@@ -247,6 +279,22 @@
       "cat": "VIP",
       "price": "400.00",
       "status": "0"
+    },
+    "CTNR|9777|20260730|EXECUTIVE": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "01:00 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "345.00",
+      "status": "3"
+    },
+    "CTNR|9777|20260730|VIP": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "01:00 PM",
+      "date": "20260730",
+      "cat": "VIP",
+      "price": "400.00",
+      "status": "3"
     },
     "CTNR|7300|20260730|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
@@ -272,6 +320,22 @@
       "price": "400.00",
       "status": "0"
     },
+    "CTNR|9778|20260730|EXECUTIVE": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "04:10 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "345.00",
+      "status": "3"
+    },
+    "CTNR|9778|20260730|VIP": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "04:10 PM",
+      "date": "20260730",
+      "cat": "VIP",
+      "price": "400.00",
+      "status": "3"
+    },
     "CTNR|7301|20260730|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
       "time": "04:25 PM",
@@ -296,6 +360,22 @@
       "price": "400.00",
       "status": "1"
     },
+    "CTNR|9779|20260730|EXECUTIVE": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "07:20 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "345.00",
+      "status": "3"
+    },
+    "CTNR|9779|20260730|VIP": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "07:20 PM",
+      "date": "20260730",
+      "cat": "VIP",
+      "price": "400.00",
+      "status": "3"
+    },
     "CTNR|7302|20260730|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
       "time": "07:35 PM",
@@ -319,6 +399,22 @@
       "cat": "VIP",
       "price": "400.00",
       "status": "1"
+    },
+    "CTNR|9780|20260730|EXECUTIVE": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "10:30 PM",
+      "date": "20260730",
+      "cat": "EXECUTIVE",
+      "price": "345.00",
+      "status": "3"
+    },
+    "CTNR|9780|20260730|VIP": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "10:30 PM",
+      "date": "20260730",
+      "cat": "VIP",
+      "price": "400.00",
+      "status": "3"
     },
     "CTNR|7303|20260730|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
@@ -392,19 +488,19 @@
       "price": "404.00",
       "status": "0"
     },
-    "ILKS|6777|20260730|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "02:00 PM",
-      "date": "20260730",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
-      "status": "0"
-    },
     "ILKS|6777|20260730|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "02:00 PM",
       "date": "20260730",
       "cat": "CLASSIC ROWS",
+      "price": "345.00",
+      "status": "0"
+    },
+    "ILKS|6777|20260730|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "02:00 PM",
+      "date": "20260730",
+      "cat": "PRIME ROWS",
       "price": "345.00",
       "status": "0"
     },
@@ -592,19 +688,19 @@
       "price": "758.00",
       "status": "0"
     },
-    "PIIC|29634|20260730|PRIME ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "10:00 AM",
-      "date": "20260730",
-      "cat": "PRIME ROWS",
-      "price": "522.00",
-      "status": "0"
-    },
     "PIIC|29634|20260730|LOUNGERS ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
       "time": "10:00 AM",
       "date": "20260730",
       "cat": "LOUNGERS ROWS",
+      "price": "522.00",
+      "status": "0"
+    },
+    "PIIC|29634|20260730|PRIME ROWS": {
+      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
+      "time": "10:00 AM",
+      "date": "20260730",
+      "cat": "PRIME ROWS",
       "price": "522.00",
       "status": "0"
     },
@@ -688,19 +784,19 @@
       "price": "758.00",
       "status": "0"
     },
-    "PIIC|29638|20260730|LOUNGERS ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "10:00 PM",
-      "date": "20260730",
-      "cat": "LOUNGERS ROWS",
-      "price": "522.00",
-      "status": "0"
-    },
     "PIIC|29638|20260730|PRIME ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
       "time": "10:00 PM",
       "date": "20260730",
       "cat": "PRIME ROWS",
+      "price": "522.00",
+      "status": "0"
+    },
+    "PIIC|29638|20260730|LOUNGERS ROWS": {
+      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
+      "time": "10:00 PM",
+      "date": "20260730",
+      "cat": "LOUNGERS ROWS",
       "price": "522.00",
       "status": "0"
     },
@@ -1080,85 +1176,85 @@
       "price": "380.00",
       "status": "0"
     },
-    "CMMA|5122|20260730|NORMAL": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "10:00 AM",
+    "MMCA|25804|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: CineTown, Miyapur",
+      "time": "10:50 AM",
       "date": "20260730",
-      "cat": "NORMAL",
-      "price": "335.00",
+      "cat": "3D EXECUTIVE",
+      "price": "215.00",
       "status": "3"
     },
-    "CMMA|5122|20260730|VIP": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "10:00 AM",
+    "MMCA|25804|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: CineTown, Miyapur",
+      "time": "10:50 AM",
       "date": "20260730",
-      "cat": "VIP",
-      "price": "390.00",
-      "status": "0"
-    },
-    "CMMA|5123|20260730|NORMAL": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "01:10 PM",
-      "date": "20260730",
-      "cat": "NORMAL",
-      "price": "335.00",
+      "cat": "3D GOLD",
+      "price": "275.00",
       "status": "3"
     },
-    "CMMA|5123|20260730|VIP": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "01:10 PM",
+    "MMCA|25805|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: CineTown, Miyapur",
+      "time": "02:00 PM",
       "date": "20260730",
-      "cat": "VIP",
-      "price": "390.00",
-      "status": "0"
-    },
-    "CMMA|5124|20260730|NORMAL": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "04:20 PM",
-      "date": "20260730",
-      "cat": "NORMAL",
-      "price": "335.00",
+      "cat": "3D EXECUTIVE",
+      "price": "215.00",
       "status": "3"
     },
-    "CMMA|5124|20260730|VIP": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "04:20 PM",
+    "MMCA|25805|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: CineTown, Miyapur",
+      "time": "02:00 PM",
       "date": "20260730",
-      "cat": "VIP",
-      "price": "390.00",
-      "status": "0"
-    },
-    "CMMA|5125|20260730|NORMAL": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "07:30 PM",
-      "date": "20260730",
-      "cat": "NORMAL",
-      "price": "335.00",
+      "cat": "3D GOLD",
+      "price": "275.00",
       "status": "3"
     },
-    "CMMA|5125|20260730|VIP": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "07:30 PM",
+    "MMCA|25806|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: CineTown, Miyapur",
+      "time": "05:00 PM",
       "date": "20260730",
-      "cat": "VIP",
-      "price": "390.00",
-      "status": "0"
-    },
-    "CMMA|5126|20260730|NORMAL": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "10:40 PM",
-      "date": "20260730",
-      "cat": "NORMAL",
-      "price": "335.00",
+      "cat": "3D EXECUTIVE",
+      "price": "215.00",
       "status": "3"
     },
-    "CMMA|5126|20260730|VIP": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "10:40 PM",
+    "MMCA|25806|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: CineTown, Miyapur",
+      "time": "05:00 PM",
       "date": "20260730",
-      "cat": "VIP",
-      "price": "390.00",
-      "status": "0"
+      "cat": "3D GOLD",
+      "price": "275.00",
+      "status": "3"
+    },
+    "MMCA|25807|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: CineTown, Miyapur",
+      "time": "08:00 PM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "215.00",
+      "status": "3"
+    },
+    "MMCA|25807|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: CineTown, Miyapur",
+      "time": "08:00 PM",
+      "date": "20260730",
+      "cat": "3D GOLD",
+      "price": "275.00",
+      "status": "3"
+    },
+    "MMCA|25808|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: CineTown, Miyapur",
+      "time": "11:00 PM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "215.00",
+      "status": "3"
+    },
+    "MMCA|25808|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: CineTown, Miyapur",
+      "time": "11:00 PM",
+      "date": "20260730",
+      "cat": "3D GOLD",
+      "price": "275.00",
+      "status": "3"
     },
     "PNNG|37844|20260730|RECLINER": {
       "venue": "PVR: Next Galleria Mall, Panjagutta",
@@ -1320,53 +1416,85 @@
       "price": "345.00",
       "status": "2"
     },
-    "MTHY|77834|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "09:00 AM",
+    "CMMA|5122|20260730|NORMAL": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "10:00 AM",
       "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "1"
+      "cat": "NORMAL",
+      "price": "335.00",
+      "status": "3"
     },
-    "MTHY|77835|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "11:45 AM",
+    "CMMA|5122|20260730|VIP": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "10:00 AM",
       "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "2"
+      "cat": "VIP",
+      "price": "390.00",
+      "status": "0"
     },
-    "MTHY|77836|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "02:30 PM",
+    "CMMA|5123|20260730|NORMAL": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "01:10 PM",
       "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "2"
+      "cat": "NORMAL",
+      "price": "335.00",
+      "status": "3"
     },
-    "MTHY|77837|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "05:15 PM",
+    "CMMA|5123|20260730|VIP": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "01:10 PM",
       "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "2"
+      "cat": "VIP",
+      "price": "390.00",
+      "status": "0"
     },
-    "MTHY|77838|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "08:00 PM",
+    "CMMA|5124|20260730|NORMAL": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "04:20 PM",
       "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "1"
+      "cat": "NORMAL",
+      "price": "335.00",
+      "status": "3"
     },
-    "MTHY|77839|20260730|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "10:45 PM",
+    "CMMA|5124|20260730|VIP": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "04:20 PM",
       "date": "20260730",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "1"
+      "cat": "VIP",
+      "price": "390.00",
+      "status": "0"
+    },
+    "CMMA|5125|20260730|NORMAL": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "07:30 PM",
+      "date": "20260730",
+      "cat": "NORMAL",
+      "price": "335.00",
+      "status": "3"
+    },
+    "CMMA|5125|20260730|VIP": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "07:30 PM",
+      "date": "20260730",
+      "cat": "VIP",
+      "price": "390.00",
+      "status": "0"
+    },
+    "CMMA|5126|20260730|NORMAL": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "10:40 PM",
+      "date": "20260730",
+      "cat": "NORMAL",
+      "price": "335.00",
+      "status": "3"
+    },
+    "CMMA|5126|20260730|VIP": {
+      "venue": "Cinepolis: Mantra Mall, Attapur",
+      "time": "10:40 PM",
+      "date": "20260730",
+      "cat": "VIP",
+      "price": "390.00",
+      "status": "0"
     },
     "ISTN|55015|20260730|Royal": {
       "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
@@ -1528,85 +1656,53 @@
       "price": "345.00",
       "status": "2"
     },
-    "MCSS|71277|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "10:50 AM",
+    "MTHY|77834|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "09:00 AM",
       "date": "20260730",
-      "cat": "3D EXECUTIVE",
-      "price": "335.00",
-      "status": "3"
+      "cat": "3D RECLINER",
+      "price": "400.00",
+      "status": "1"
     },
-    "MCSS|71277|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "10:50 AM",
+    "MTHY|77835|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "11:45 AM",
       "date": "20260730",
-      "cat": "3D GOLD",
-      "price": "390.00",
+      "cat": "3D RECLINER",
+      "price": "400.00",
       "status": "2"
     },
-    "MCSS|71278|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "01:45 PM",
+    "MTHY|77836|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "02:30 PM",
       "date": "20260730",
-      "cat": "3D EXECUTIVE",
-      "price": "335.00",
-      "status": "3"
-    },
-    "MCSS|71278|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "01:45 PM",
-      "date": "20260730",
-      "cat": "3D GOLD",
-      "price": "390.00",
+      "cat": "3D RECLINER",
+      "price": "400.00",
       "status": "2"
     },
-    "MCSS|71279|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "04:40 PM",
+    "MTHY|77837|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "05:15 PM",
       "date": "20260730",
-      "cat": "3D EXECUTIVE",
-      "price": "335.00",
-      "status": "3"
-    },
-    "MCSS|71279|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "04:40 PM",
-      "date": "20260730",
-      "cat": "3D GOLD",
-      "price": "390.00",
+      "cat": "3D RECLINER",
+      "price": "400.00",
       "status": "2"
     },
-    "MCSS|71280|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "07:35 PM",
+    "MTHY|77838|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "08:00 PM",
       "date": "20260730",
-      "cat": "3D EXECUTIVE",
-      "price": "335.00",
-      "status": "3"
+      "cat": "3D RECLINER",
+      "price": "400.00",
+      "status": "1"
     },
-    "MCSS|71280|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "07:35 PM",
+    "MTHY|77839|20260730|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "10:45 PM",
       "date": "20260730",
-      "cat": "3D GOLD",
-      "price": "390.00",
-      "status": "2"
-    },
-    "MCSS|71281|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "10:30 PM",
-      "date": "20260730",
-      "cat": "3D EXECUTIVE",
-      "price": "335.00",
-      "status": "3"
-    },
-    "MCSS|71281|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "10:30 PM",
-      "date": "20260730",
-      "cat": "3D GOLD",
-      "price": "390.00",
-      "status": "2"
+      "cat": "3D RECLINER",
+      "price": "400.00",
+      "status": "1"
     },
     "PVTP|18325|20260730|CLASSIC": {
       "venue": "PVR: Preston, Gachibowli Hyderabad",
@@ -1704,14 +1800,6 @@
       "price": "400.00",
       "status": "0"
     },
-    "IOMH|6851|20260730|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "04:30 PM",
-      "date": "20260730",
-      "cat": "CLASSIC ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
     "IOMH|6851|20260730|PRIME ROWS": {
       "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
       "time": "04:30 PM",
@@ -1719,6 +1807,14 @@
       "cat": "PRIME ROWS",
       "price": "345.00",
       "status": "1"
+    },
+    "IOMH|6851|20260730|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "04:30 PM",
+      "date": "20260730",
+      "cat": "CLASSIC ROWS",
+      "price": "345.00",
+      "status": "3"
     },
     "IOMH|6852|20260730|RECLINER ROWS": {
       "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
@@ -1752,14 +1848,6 @@
       "price": "400.00",
       "status": "1"
     },
-    "IOMH|6853|20260730|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:30 PM",
-      "date": "20260730",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
-      "status": "1"
-    },
     "IOMH|6853|20260730|CLASSIC ROWS": {
       "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
       "time": "10:30 PM",
@@ -1768,85 +1856,93 @@
       "price": "345.00",
       "status": "3"
     },
-    "MRAA|43598|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+    "IOMH|6853|20260730|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:30 PM",
+      "date": "20260730",
+      "cat": "PRIME ROWS",
+      "price": "345.00",
+      "status": "1"
+    },
+    "MCSS|71277|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
       "time": "10:50 AM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "335.00",
       "status": "3"
     },
-    "MRAA|43598|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+    "MCSS|71277|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
       "time": "10:50 AM",
       "date": "20260730",
       "cat": "3D GOLD",
       "price": "390.00",
-      "status": "3"
+      "status": "2"
     },
-    "MRAA|43599|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+    "MCSS|71278|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
       "time": "01:45 PM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "335.00",
       "status": "3"
     },
-    "MRAA|43599|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+    "MCSS|71278|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
       "time": "01:45 PM",
       "date": "20260730",
       "cat": "3D GOLD",
       "price": "390.00",
-      "status": "3"
+      "status": "2"
     },
-    "MRAA|43600|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+    "MCSS|71279|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
       "time": "04:40 PM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "335.00",
       "status": "3"
     },
-    "MRAA|43600|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+    "MCSS|71279|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
       "time": "04:40 PM",
       "date": "20260730",
       "cat": "3D GOLD",
       "price": "390.00",
-      "status": "3"
+      "status": "2"
     },
-    "MRAA|43601|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+    "MCSS|71280|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
       "time": "07:35 PM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "335.00",
       "status": "3"
     },
-    "MRAA|43601|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+    "MCSS|71280|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
       "time": "07:35 PM",
       "date": "20260730",
       "cat": "3D GOLD",
       "price": "390.00",
-      "status": "3"
+      "status": "2"
     },
-    "MRAA|43602|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+    "MCSS|71281|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
       "time": "10:30 PM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "335.00",
       "status": "3"
     },
-    "MRAA|43602|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+    "MCSS|71281|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
       "time": "10:30 PM",
       "date": "20260730",
       "cat": "3D GOLD",
       "price": "390.00",
-      "status": "3"
+      "status": "2"
     },
     "PIMH|32411|20260730|RECLINER": {
       "venue": "PVR: Irrum Manzil, Hyderabad",
@@ -2008,84 +2104,84 @@
       "price": "345.00",
       "status": "2"
     },
-    "MRGT|37298|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "10:00 AM",
-      "date": "20260730",
-      "cat": "3D GOLD",
-      "price": "390.00",
-      "status": "3"
-    },
-    "MRGT|37298|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "10:00 AM",
+    "MRAA|43598|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+      "time": "10:50 AM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "335.00",
       "status": "3"
     },
-    "MRGT|37299|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "01:10 PM",
+    "MRAA|43598|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+      "time": "10:50 AM",
       "date": "20260730",
       "cat": "3D GOLD",
       "price": "390.00",
       "status": "3"
     },
-    "MRGT|37299|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "01:10 PM",
+    "MRAA|43599|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+      "time": "01:45 PM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "335.00",
       "status": "3"
     },
-    "MRGT|37300|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "04:20 PM",
+    "MRAA|43599|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+      "time": "01:45 PM",
       "date": "20260730",
       "cat": "3D GOLD",
       "price": "390.00",
       "status": "3"
     },
-    "MRGT|37300|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "04:20 PM",
+    "MRAA|43600|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+      "time": "04:40 PM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "335.00",
       "status": "3"
     },
-    "MRGT|37301|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "07:25 PM",
+    "MRAA|43600|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+      "time": "04:40 PM",
       "date": "20260730",
       "cat": "3D GOLD",
       "price": "390.00",
       "status": "3"
     },
-    "MRGT|37301|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "07:25 PM",
+    "MRAA|43601|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+      "time": "07:35 PM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "335.00",
       "status": "3"
     },
-    "MRGT|37302|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "10:30 PM",
+    "MRAA|43601|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+      "time": "07:35 PM",
       "date": "20260730",
       "cat": "3D GOLD",
       "price": "390.00",
       "status": "3"
     },
-    "MRGT|37302|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
+    "MRAA|43602|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
       "time": "10:30 PM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "335.00",
+      "status": "3"
+    },
+    "MRAA|43602|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: A2A Central Mall, Balanagar",
+      "time": "10:30 PM",
+      "date": "20260730",
+      "cat": "3D GOLD",
+      "price": "390.00",
       "status": "3"
     },
     "CVMU|2287|20260730|3D PLATINUM SOFA": {
@@ -2248,84 +2344,84 @@
       "price": "345.00",
       "status": "2"
     },
-    "MRRG|24506|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
-      "time": "10:45 AM",
-      "date": "20260730",
-      "cat": "3D EXECUTIVE",
-      "price": "215.00",
-      "status": "3"
-    },
-    "MRRG|24506|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
-      "time": "10:45 AM",
+    "MRGT|37298|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Geeta, Chandanagar",
+      "time": "10:00 AM",
       "date": "20260730",
       "cat": "3D GOLD",
-      "price": "275.00",
+      "price": "390.00",
       "status": "3"
     },
-    "MRRG|24507|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
-      "time": "01:45 PM",
+    "MRGT|37298|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Geeta, Chandanagar",
+      "time": "10:00 AM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
-      "price": "215.00",
+      "price": "335.00",
       "status": "3"
     },
-    "MRRG|24507|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
-      "time": "01:45 PM",
+    "MRGT|37299|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Geeta, Chandanagar",
+      "time": "01:10 PM",
       "date": "20260730",
       "cat": "3D GOLD",
-      "price": "275.00",
+      "price": "390.00",
       "status": "3"
     },
-    "MRRG|24508|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
-      "time": "04:45 PM",
+    "MRGT|37299|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Geeta, Chandanagar",
+      "time": "01:10 PM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
-      "price": "215.00",
+      "price": "335.00",
       "status": "3"
     },
-    "MRRG|24508|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
-      "time": "04:45 PM",
+    "MRGT|37300|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Geeta, Chandanagar",
+      "time": "04:20 PM",
       "date": "20260730",
       "cat": "3D GOLD",
-      "price": "275.00",
+      "price": "390.00",
       "status": "3"
     },
-    "MRRG|24509|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
-      "time": "07:45 PM",
+    "MRGT|37300|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Geeta, Chandanagar",
+      "time": "04:20 PM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
-      "price": "215.00",
+      "price": "335.00",
       "status": "3"
     },
-    "MRRG|24509|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
-      "time": "07:45 PM",
+    "MRGT|37301|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Geeta, Chandanagar",
+      "time": "07:25 PM",
       "date": "20260730",
       "cat": "3D GOLD",
-      "price": "275.00",
-      "status": "3"
+      "price": "390.00",
+      "status": "2"
     },
-    "MRRG|24510|20260730|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
-      "time": "10:45 PM",
+    "MRGT|37301|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Geeta, Chandanagar",
+      "time": "07:25 PM",
       "date": "20260730",
       "cat": "3D EXECUTIVE",
-      "price": "215.00",
+      "price": "335.00",
       "status": "3"
     },
-    "MRRG|24510|20260730|3D GOLD": {
-      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
-      "time": "10:45 PM",
+    "MRGT|37302|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Geeta, Chandanagar",
+      "time": "10:30 PM",
       "date": "20260730",
       "cat": "3D GOLD",
-      "price": "275.00",
+      "price": "390.00",
+      "status": "3"
+    },
+    "MRGT|37302|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Geeta, Chandanagar",
+      "time": "10:30 PM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "335.00",
       "status": "3"
     },
     "IPRS|16000|20260730|RECLINER": {
@@ -2446,6 +2542,86 @@
       "date": "20260730",
       "cat": "3D EXECUTIVE",
       "price": "335.00",
+      "status": "3"
+    },
+    "MRRG|24506|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
+      "time": "10:45 AM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "215.00",
+      "status": "3"
+    },
+    "MRRG|24506|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
+      "time": "10:45 AM",
+      "date": "20260730",
+      "cat": "3D GOLD",
+      "price": "275.00",
+      "status": "3"
+    },
+    "MRRG|24507|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
+      "time": "01:45 PM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "215.00",
+      "status": "3"
+    },
+    "MRRG|24507|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
+      "time": "01:45 PM",
+      "date": "20260730",
+      "cat": "3D GOLD",
+      "price": "275.00",
+      "status": "3"
+    },
+    "MRRG|24508|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
+      "time": "04:45 PM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "215.00",
+      "status": "3"
+    },
+    "MRRG|24508|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
+      "time": "04:45 PM",
+      "date": "20260730",
+      "cat": "3D GOLD",
+      "price": "275.00",
+      "status": "3"
+    },
+    "MRRG|24509|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
+      "time": "07:45 PM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "215.00",
+      "status": "3"
+    },
+    "MRRG|24509|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
+      "time": "07:45 PM",
+      "date": "20260730",
+      "cat": "3D GOLD",
+      "price": "275.00",
+      "status": "2"
+    },
+    "MRRG|24510|20260730|3D EXECUTIVE": {
+      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
+      "time": "10:45 PM",
+      "date": "20260730",
+      "cat": "3D EXECUTIVE",
+      "price": "215.00",
+      "status": "3"
+    },
+    "MRRG|24510|20260730|3D GOLD": {
+      "venue": "Miraj Cinemas: Raghavendra, Malkajgiri",
+      "time": "10:45 PM",
+      "date": "20260730",
+      "cat": "3D GOLD",
+      "price": "275.00",
       "status": "3"
     },
     "PVYH|23053|20260730|CLASSIC": {
@@ -2576,14 +2752,6 @@
       "price": "385.00",
       "status": "1"
     },
-    "IVNM|8060|20260730|PRIME PLUS ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "10:45 AM",
-      "date": "20260730",
-      "cat": "PRIME PLUS ROWS",
-      "price": "330.00",
-      "status": "2"
-    },
     "IVNM|8060|20260730|PRIME ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "10:45 AM",
@@ -2599,6 +2767,14 @@
       "cat": "CLASSIC ROWS",
       "price": "330.00",
       "status": "3"
+    },
+    "IVNM|8060|20260730|PRIME PLUS ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "10:45 AM",
+      "date": "20260730",
+      "cat": "PRIME PLUS ROWS",
+      "price": "330.00",
+      "status": "2"
     },
     "IVNM|8061|20260730|RECLINER ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
@@ -2640,14 +2816,6 @@
       "price": "385.00",
       "status": "1"
     },
-    "IVNM|8062|20260730|CLASSIC ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "04:45 PM",
-      "date": "20260730",
-      "cat": "CLASSIC ROWS",
-      "price": "330.00",
-      "status": "3"
-    },
     "IVNM|8062|20260730|PRIME PLUS ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "04:45 PM",
@@ -2661,6 +2829,14 @@
       "time": "04:45 PM",
       "date": "20260730",
       "cat": "PRIME ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
+    "IVNM|8062|20260730|CLASSIC ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "04:45 PM",
+      "date": "20260730",
+      "cat": "CLASSIC ROWS",
       "price": "330.00",
       "status": "3"
     },
