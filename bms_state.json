@@ -38,7 +38,7 @@
       "date": "20260803",
       "cat": "3D GOLD",
       "price": "325.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|115888|20260803|3D LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -263,6 +263,22 @@
       "cat": "GOLD + 3D GlassL",
       "price": "400.00",
       "status": "1"
+    },
+    "ACEV|18930|20260803|3D RECLINERS": {
+      "venue": "ART CINEMAS: Vanasthalipuram",
+      "time": "12:50 PM",
+      "date": "20260803",
+      "cat": "3D RECLINERS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "ACEV|18930|20260803|3D GOLD": {
+      "venue": "ART CINEMAS: Vanasthalipuram",
+      "time": "12:50 PM",
+      "date": "20260803",
+      "cat": "3D GOLD",
+      "price": "325.00",
+      "status": "3"
     },
     "ACEV|18892|20260803|3D RECLINERS": {
       "venue": "ART CINEMAS: Vanasthalipuram",
@@ -752,19 +768,19 @@
       "price": "400.00",
       "status": "3"
     },
-    "ILKS|9027|20260803|LOUNGER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "09:40 AM",
-      "date": "20260803",
-      "cat": "LOUNGER ROWS",
-      "price": "404.00",
-      "status": "3"
-    },
     "ILKS|9027|20260803|RECLINER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "09:40 AM",
       "date": "20260803",
       "cat": "RECLINER ROWS",
+      "price": "404.00",
+      "status": "3"
+    },
+    "ILKS|9027|20260803|LOUNGER ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "09:40 AM",
+      "date": "20260803",
+      "cat": "LOUNGER ROWS",
       "price": "404.00",
       "status": "3"
     },
@@ -800,19 +816,19 @@
       "price": "404.00",
       "status": "3"
     },
-    "ILKS|9022|20260803|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "10:35 AM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
     "ILKS|9022|20260803|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "10:35 AM",
       "date": "20260803",
       "cat": "CLASSIC ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "ILKS|9022|20260803|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "10:35 AM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
       "price": "345.00",
       "status": "3"
     },
@@ -838,7 +854,7 @@
       "date": "20260803",
       "cat": "PRIME ROWS",
       "price": "345.00",
-      "status": "1"
+      "status": "0"
     },
     "ILKS|8979|20260803|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -848,14 +864,6 @@
       "price": "345.00",
       "status": "2"
     },
-    "ILKS|9028|20260803|LOUNGER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "12:45 PM",
-      "date": "20260803",
-      "cat": "LOUNGER ROWS",
-      "price": "404.00",
-      "status": "3"
-    },
     "ILKS|9028|20260803|RECLINER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "12:45 PM",
@@ -863,6 +871,14 @@
       "cat": "RECLINER ROWS",
       "price": "404.00",
       "status": "2"
+    },
+    "ILKS|9028|20260803|LOUNGER ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "12:45 PM",
+      "date": "20260803",
+      "cat": "LOUNGER ROWS",
+      "price": "404.00",
+      "status": "3"
     },
     "ILKS|9028|20260803|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -896,19 +912,19 @@
       "price": "404.00",
       "status": "1"
     },
-    "ILKS|9023|20260803|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "01:40 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
     "ILKS|9023|20260803|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "01:40 PM",
       "date": "20260803",
       "cat": "CLASSIC ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "ILKS|9023|20260803|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "01:40 PM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
       "price": "345.00",
       "status": "3"
     },
@@ -944,14 +960,6 @@
       "price": "345.00",
       "status": "2"
     },
-    "ILKS|9029|20260803|LOUNGER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "03:50 PM",
-      "date": "20260803",
-      "cat": "LOUNGER ROWS",
-      "price": "404.00",
-      "status": "3"
-    },
     "ILKS|9029|20260803|RECLINER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "03:50 PM",
@@ -959,6 +967,14 @@
       "cat": "RECLINER ROWS",
       "price": "404.00",
       "status": "2"
+    },
+    "ILKS|9029|20260803|LOUNGER ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "03:50 PM",
+      "date": "20260803",
+      "cat": "LOUNGER ROWS",
+      "price": "404.00",
+      "status": "3"
     },
     "ILKS|9029|20260803|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -1008,14 +1024,6 @@
       "price": "345.00",
       "status": "3"
     },
-    "ILKS|8981|20260803|LOUNGER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "05:00 PM",
-      "date": "20260803",
-      "cat": "LOUNGER ROWS",
-      "price": "404.00",
-      "status": "3"
-    },
     "ILKS|8981|20260803|RECLINER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "05:00 PM",
@@ -1023,6 +1031,14 @@
       "cat": "RECLINER ROWS",
       "price": "404.00",
       "status": "0"
+    },
+    "ILKS|8981|20260803|LOUNGER ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "05:00 PM",
+      "date": "20260803",
+      "cat": "LOUNGER ROWS",
+      "price": "404.00",
+      "status": "3"
     },
     "ILKS|8981|20260803|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -1056,19 +1072,19 @@
       "price": "404.00",
       "status": "1"
     },
-    "ILKS|9030|20260803|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "06:55 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
     "ILKS|9030|20260803|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "06:55 PM",
       "date": "20260803",
       "cat": "CLASSIC ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "ILKS|9030|20260803|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "06:55 PM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
       "price": "345.00",
       "status": "3"
     },
@@ -1104,14 +1120,6 @@
       "price": "345.00",
       "status": "2"
     },
-    "ILKS|8982|20260803|LOUNGER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "08:00 PM",
-      "date": "20260803",
-      "cat": "LOUNGER ROWS",
-      "price": "404.00",
-      "status": "3"
-    },
     "ILKS|8982|20260803|RECLINER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "08:00 PM",
@@ -1119,6 +1127,14 @@
       "cat": "RECLINER ROWS",
       "price": "404.00",
       "status": "0"
+    },
+    "ILKS|8982|20260803|LOUNGER ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "08:00 PM",
+      "date": "20260803",
+      "cat": "LOUNGER ROWS",
+      "price": "404.00",
+      "status": "3"
     },
     "ILKS|8982|20260803|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -1152,14 +1168,6 @@
       "price": "404.00",
       "status": "2"
     },
-    "ILKS|9031|20260803|CLASSIC ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "10:00 PM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
     "ILKS|9031|20260803|PRIME ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "10:00 PM",
@@ -1168,12 +1176,12 @@
       "price": "345.00",
       "status": "3"
     },
-    "ILKS|9026|20260803|RECLINER ROWS": {
+    "ILKS|9031|20260803|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "10:30 PM",
+      "time": "10:00 PM",
       "date": "20260803",
-      "cat": "RECLINER ROWS",
-      "price": "404.00",
+      "cat": "CLASSIC ROWS",
+      "price": "345.00",
       "status": "3"
     },
     "ILKS|9026|20260803|LOUNGER ROWS": {
@@ -1181,6 +1189,14 @@
       "time": "10:30 PM",
       "date": "20260803",
       "cat": "LOUNGER ROWS",
+      "price": "404.00",
+      "status": "3"
+    },
+    "ILKS|9026|20260803|RECLINER ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "10:30 PM",
+      "date": "20260803",
+      "cat": "RECLINER ROWS",
       "price": "404.00",
       "status": "3"
     },
@@ -1662,7 +1678,7 @@
       "date": "20260803",
       "cat": "ROYAL",
       "price": "400.00",
-      "status": "2"
+      "status": "3"
     },
     "IGMH|84871|20260803|EXECUTIVE": {
       "venue": "INOX: GSM Mall, Hyderabad",
@@ -1904,19 +1920,19 @@
       "price": "758.00",
       "status": "2"
     },
-    "PIIC|31677|20260803|PRIME ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "10:00 AM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "522.00",
-      "status": "3"
-    },
     "PIIC|31677|20260803|LOUNGERS ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
       "time": "10:00 AM",
       "date": "20260803",
       "cat": "LOUNGERS ROWS",
+      "price": "522.00",
+      "status": "3"
+    },
+    "PIIC|31677|20260803|PRIME ROWS": {
+      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
+      "time": "10:00 AM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
       "price": "522.00",
       "status": "3"
     },
@@ -2854,7 +2870,7 @@
       "date": "20260803",
       "cat": "Royal",
       "price": "400.00",
-      "status": "2"
+      "status": "3"
     },
     "ISTN|55546|20260803|Executive": {
       "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
@@ -2990,7 +3006,7 @@
       "date": "20260803",
       "cat": "3D RECLINERS",
       "price": "380.00",
-      "status": "2"
+      "status": "0"
     },
     "AMCA|71838|20260803|3D GOLD": {
       "venue": "Asian M Cube Mall: Attapur",
@@ -3030,7 +3046,7 @@
       "date": "20260803",
       "cat": "ROYALE",
       "price": "400.00",
-      "status": "1"
+      "status": "2"
     },
     "AKYJ|32207|20260803|EXECUTIVE": {
       "venue": "INOX: Ashoka One, 4K LASER Dolby ATMOS: Kukatpally",
@@ -3062,7 +3078,7 @@
       "date": "20260803",
       "cat": "ROYALE",
       "price": "400.00",
-      "status": "0"
+      "status": "1"
     },
     "AKYJ|32209|20260803|EXECUTIVE": {
       "venue": "INOX: Ashoka One, 4K LASER Dolby ATMOS: Kukatpally",
@@ -3326,7 +3342,7 @@
       "date": "20260803",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "1"
+      "status": "2"
     },
     "PIMH|32923|20260803|CLASSIC": {
       "venue": "PVR: Irrum Manzil, Hyderabad",
@@ -3366,6 +3382,278 @@
       "date": "20260803",
       "cat": "CLASSIC",
       "price": "345.00",
+      "status": "3"
+    },
+    "IOMH|7541|20260803|RECLINER ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "09:40 AM",
+      "date": "20260803",
+      "cat": "RECLINER ROWS",
+      "price": "385.00",
+      "status": "3"
+    },
+    "IOMH|7541|20260803|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "09:40 AM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
+      "price": "285.00",
+      "status": "3"
+    },
+    "IOMH|7541|20260803|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "09:40 AM",
+      "date": "20260803",
+      "cat": "CLASSIC ROWS",
+      "price": "235.00",
+      "status": "3"
+    },
+    "IOMH|7513|20260803|RECLINER ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:30 AM",
+      "date": "20260803",
+      "cat": "RECLINER ROWS",
+      "price": "400.00",
+      "status": "1"
+    },
+    "IOMH|7513|20260803|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:30 AM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "IOMH|7513|20260803|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:30 AM",
+      "date": "20260803",
+      "cat": "CLASSIC ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "IOMH|7542|20260803|RECLINER ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "12:45 PM",
+      "date": "20260803",
+      "cat": "RECLINER ROWS",
+      "price": "385.00",
+      "status": "3"
+    },
+    "IOMH|7542|20260803|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "12:45 PM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
+      "price": "285.00",
+      "status": "3"
+    },
+    "IOMH|7542|20260803|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "12:45 PM",
+      "date": "20260803",
+      "cat": "CLASSIC ROWS",
+      "price": "235.00",
+      "status": "3"
+    },
+    "IOMH|7514|20260803|RECLINER ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "01:30 PM",
+      "date": "20260803",
+      "cat": "RECLINER ROWS",
+      "price": "400.00",
+      "status": "1"
+    },
+    "IOMH|7514|20260803|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "01:30 PM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
+      "price": "345.00",
+      "status": "2"
+    },
+    "IOMH|7514|20260803|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "01:30 PM",
+      "date": "20260803",
+      "cat": "CLASSIC ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "IOMH|7543|20260803|RECLINER ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "03:50 PM",
+      "date": "20260803",
+      "cat": "RECLINER ROWS",
+      "price": "385.00",
+      "status": "3"
+    },
+    "IOMH|7543|20260803|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "03:50 PM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
+      "price": "285.00",
+      "status": "3"
+    },
+    "IOMH|7543|20260803|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "03:50 PM",
+      "date": "20260803",
+      "cat": "CLASSIC ROWS",
+      "price": "235.00",
+      "status": "3"
+    },
+    "IOMH|7515|20260803|RECLINER ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "04:30 PM",
+      "date": "20260803",
+      "cat": "RECLINER ROWS",
+      "price": "400.00",
+      "status": "2"
+    },
+    "IOMH|7515|20260803|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "04:30 PM",
+      "date": "20260803",
+      "cat": "CLASSIC ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "IOMH|7515|20260803|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "04:30 PM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "IOMH|7544|20260803|RECLINER ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "06:55 PM",
+      "date": "20260803",
+      "cat": "RECLINER ROWS",
+      "price": "385.00",
+      "status": "2"
+    },
+    "IOMH|7544|20260803|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "06:55 PM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
+      "price": "285.00",
+      "status": "3"
+    },
+    "IOMH|7544|20260803|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "06:55 PM",
+      "date": "20260803",
+      "cat": "CLASSIC ROWS",
+      "price": "235.00",
+      "status": "3"
+    },
+    "IOMH|7516|20260803|RECLINER ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "07:30 PM",
+      "date": "20260803",
+      "cat": "RECLINER ROWS",
+      "price": "400.00",
+      "status": "0"
+    },
+    "IOMH|7516|20260803|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "07:30 PM",
+      "date": "20260803",
+      "cat": "CLASSIC ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "IOMH|7516|20260803|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "07:30 PM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "IOMH|7545|20260803|RECLINER ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:00 PM",
+      "date": "20260803",
+      "cat": "RECLINER ROWS",
+      "price": "385.00",
+      "status": "3"
+    },
+    "IOMH|7545|20260803|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:00 PM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
+      "price": "285.00",
+      "status": "3"
+    },
+    "IOMH|7545|20260803|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:00 PM",
+      "date": "20260803",
+      "cat": "CLASSIC ROWS",
+      "price": "235.00",
+      "status": "3"
+    },
+    "IOMH|7517|20260803|RECLINER ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:30 PM",
+      "date": "20260803",
+      "cat": "RECLINER ROWS",
+      "price": "400.00",
+      "status": "2"
+    },
+    "IOMH|7517|20260803|PRIME ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:30 PM",
+      "date": "20260803",
+      "cat": "PRIME ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "IOMH|7517|20260803|CLASSIC ROWS": {
+      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
+      "time": "10:30 PM",
+      "date": "20260803",
+      "cat": "CLASSIC ROWS",
+      "price": "345.00",
+      "status": "3"
+    },
+    "ACHI|31058|20260803|3D GOLD": {
+      "venue": "Asian Sha & Shahensha: Chintal",
+      "time": "02:30 PM",
+      "date": "20260803",
+      "cat": "3D GOLD",
+      "price": "205.00",
+      "status": "3"
+    },
+    "ACHI|31058|20260803|3D SILVER": {
+      "venue": "Asian Sha & Shahensha: Chintal",
+      "time": "02:30 PM",
+      "date": "20260803",
+      "cat": "3D SILVER",
+      "price": "180.00",
+      "status": "3"
+    },
+    "ACHI|31032|20260803|3D GOLD": {
+      "venue": "Asian Sha & Shahensha: Chintal",
+      "time": "06:15 PM",
+      "date": "20260803",
+      "cat": "3D GOLD",
+      "price": "205.00",
+      "status": "3"
+    },
+    "ACHI|31032|20260803|3D SILVER": {
+      "venue": "Asian Sha & Shahensha: Chintal",
+      "time": "06:15 PM",
+      "date": "20260803",
+      "cat": "3D SILVER",
+      "price": "180.00",
       "status": "3"
     },
     "PVTP|18672|20260803|CLASSIC": {
@@ -3454,285 +3742,13 @@
       "date": "20260803",
       "cat": "CLASSIC",
       "price": "345.00",
-      "status": "2"
+      "status": "3"
     },
     "PVTP|18666|20260803|CLASSIC": {
       "venue": "PVR: Preston, Gachibowli Hyderabad",
       "time": "11:00 PM",
       "date": "20260803",
       "cat": "CLASSIC",
-      "price": "345.00",
-      "status": "3"
-    },
-    "ACHI|31058|20260803|3D GOLD": {
-      "venue": "Asian Sha & Shahensha: Chintal",
-      "time": "02:30 PM",
-      "date": "20260803",
-      "cat": "3D GOLD",
-      "price": "205.00",
-      "status": "3"
-    },
-    "ACHI|31058|20260803|3D SILVER": {
-      "venue": "Asian Sha & Shahensha: Chintal",
-      "time": "02:30 PM",
-      "date": "20260803",
-      "cat": "3D SILVER",
-      "price": "180.00",
-      "status": "3"
-    },
-    "ACHI|31032|20260803|3D GOLD": {
-      "venue": "Asian Sha & Shahensha: Chintal",
-      "time": "06:15 PM",
-      "date": "20260803",
-      "cat": "3D GOLD",
-      "price": "205.00",
-      "status": "3"
-    },
-    "ACHI|31032|20260803|3D SILVER": {
-      "venue": "Asian Sha & Shahensha: Chintal",
-      "time": "06:15 PM",
-      "date": "20260803",
-      "cat": "3D SILVER",
-      "price": "180.00",
-      "status": "3"
-    },
-    "IOMH|7541|20260803|RECLINER ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "09:40 AM",
-      "date": "20260803",
-      "cat": "RECLINER ROWS",
-      "price": "385.00",
-      "status": "3"
-    },
-    "IOMH|7541|20260803|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "09:40 AM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "285.00",
-      "status": "3"
-    },
-    "IOMH|7541|20260803|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "09:40 AM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "235.00",
-      "status": "3"
-    },
-    "IOMH|7513|20260803|RECLINER ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:30 AM",
-      "date": "20260803",
-      "cat": "RECLINER ROWS",
-      "price": "400.00",
-      "status": "1"
-    },
-    "IOMH|7513|20260803|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:30 AM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
-    "IOMH|7513|20260803|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:30 AM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
-    "IOMH|7542|20260803|RECLINER ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "12:45 PM",
-      "date": "20260803",
-      "cat": "RECLINER ROWS",
-      "price": "385.00",
-      "status": "3"
-    },
-    "IOMH|7542|20260803|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "12:45 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "285.00",
-      "status": "3"
-    },
-    "IOMH|7542|20260803|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "12:45 PM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "235.00",
-      "status": "3"
-    },
-    "IOMH|7514|20260803|RECLINER ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "01:30 PM",
-      "date": "20260803",
-      "cat": "RECLINER ROWS",
-      "price": "400.00",
-      "status": "1"
-    },
-    "IOMH|7514|20260803|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "01:30 PM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
-    "IOMH|7514|20260803|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "01:30 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
-      "status": "2"
-    },
-    "IOMH|7543|20260803|RECLINER ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "03:50 PM",
-      "date": "20260803",
-      "cat": "RECLINER ROWS",
-      "price": "385.00",
-      "status": "3"
-    },
-    "IOMH|7543|20260803|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "03:50 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "285.00",
-      "status": "3"
-    },
-    "IOMH|7543|20260803|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "03:50 PM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "235.00",
-      "status": "3"
-    },
-    "IOMH|7515|20260803|RECLINER ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "04:30 PM",
-      "date": "20260803",
-      "cat": "RECLINER ROWS",
-      "price": "400.00",
-      "status": "1"
-    },
-    "IOMH|7515|20260803|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "04:30 PM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
-    "IOMH|7515|20260803|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "04:30 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
-      "status": "2"
-    },
-    "IOMH|7544|20260803|RECLINER ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "06:55 PM",
-      "date": "20260803",
-      "cat": "RECLINER ROWS",
-      "price": "385.00",
-      "status": "1"
-    },
-    "IOMH|7544|20260803|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "06:55 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "285.00",
-      "status": "3"
-    },
-    "IOMH|7544|20260803|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "06:55 PM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "235.00",
-      "status": "3"
-    },
-    "IOMH|7516|20260803|RECLINER ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "07:30 PM",
-      "date": "20260803",
-      "cat": "RECLINER ROWS",
-      "price": "400.00",
-      "status": "0"
-    },
-    "IOMH|7516|20260803|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "07:30 PM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
-    "IOMH|7516|20260803|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "07:30 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
-      "status": "2"
-    },
-    "IOMH|7545|20260803|RECLINER ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:00 PM",
-      "date": "20260803",
-      "cat": "RECLINER ROWS",
-      "price": "385.00",
-      "status": "2"
-    },
-    "IOMH|7545|20260803|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:00 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "285.00",
-      "status": "3"
-    },
-    "IOMH|7545|20260803|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:00 PM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
-      "price": "235.00",
-      "status": "3"
-    },
-    "IOMH|7517|20260803|RECLINER ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:30 PM",
-      "date": "20260803",
-      "cat": "RECLINER ROWS",
-      "price": "400.00",
-      "status": "1"
-    },
-    "IOMH|7517|20260803|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:30 PM",
-      "date": "20260803",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
-    "IOMH|7517|20260803|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "10:30 PM",
-      "date": "20260803",
-      "cat": "CLASSIC ROWS",
       "price": "345.00",
       "status": "3"
     },
@@ -3798,7 +3814,7 @@
       "date": "20260803",
       "cat": "3D GOLD",
       "price": "390.00",
-      "status": "2"
+      "status": "3"
     },
     "MCSS|71607|20260803|3D EXECUTIVE": {
       "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
@@ -3814,7 +3830,7 @@
       "date": "20260803",
       "cat": "3D GOLD",
       "price": "390.00",
-      "status": "2"
+      "status": "3"
     },
     "MCSS|71553|20260803|3D EXECUTIVE": {
       "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
@@ -3846,7 +3862,7 @@
       "date": "20260803",
       "cat": "3D GOLD",
       "price": "390.00",
-      "status": "2"
+      "status": "3"
     },
     "INHY|133371|20260803|Royal": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
@@ -3862,7 +3878,7 @@
       "date": "20260803",
       "cat": "Executive",
       "price": "345.00",
-      "status": "2"
+      "status": "3"
     },
     "INHY|133350|20260803|Royal": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
@@ -3870,7 +3886,7 @@
       "date": "20260803",
       "cat": "Royal",
       "price": "400.00",
-      "status": "1"
+      "status": "2"
     },
     "INHY|133350|20260803|Executive": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
@@ -3886,7 +3902,7 @@
       "date": "20260803",
       "cat": "Royal",
       "price": "400.00",
-      "status": "0"
+      "status": "1"
     },
     "INHY|133351|20260803|Executive": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
@@ -3974,7 +3990,7 @@
       "date": "20260803",
       "cat": "Executive",
       "price": "345.00",
-      "status": "2"
+      "status": "3"
     },
     "INHY|133354|20260803|Royal": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
@@ -3982,7 +3998,7 @@
       "date": "20260803",
       "cat": "Royal",
       "price": "400.00",
-      "status": "2"
+      "status": "3"
     },
     "INHY|133354|20260803|Executive": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
@@ -4246,7 +4262,7 @@
       "date": "20260803",
       "cat": "CLASSIC",
       "price": "345.00",
-      "status": "2"
+      "status": "3"
     },
     "PVUM|27752|20260803|CLASSIC": {
       "venue": "PVR: Musarambagh, Hyderabad",
@@ -4342,7 +4358,7 @@
       "date": "20260803",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "1"
+      "status": "2"
     },
     "IPRS|16288|20260803|CLASSIC": {
       "venue": "INOX: Prism Mall, Hyderabad",
