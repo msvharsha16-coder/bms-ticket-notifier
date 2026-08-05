@@ -14,7 +14,7 @@
       "date": "20260805",
       "cat": "3D GOLD",
       "price": "325.00",
-      "status": "2"
+      "status": "1"
     },
     "AMBH|115983|20260805|3D LOUNGERS": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -22,7 +22,7 @@
       "date": "20260805",
       "cat": "3D LOUNGERS",
       "price": "325.00",
-      "status": "3"
+      "status": "2"
     },
     "AMBH|115971|20260805|3D PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -48,22 +48,6 @@
       "price": "325.00",
       "status": "3"
     },
-    "ALUC|3559|20260805|3D PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "07:40 PM",
-      "date": "20260805",
-      "cat": "3D PLATINUM",
-      "price": "390.00",
-      "status": "0"
-    },
-    "ALUC|3559|20260805|3D GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "07:40 PM",
-      "date": "20260805",
-      "cat": "3D GOLD",
-      "price": "335.00",
-      "status": "1"
-    },
     "ALUC|3560|20260805|3D PLATINUM": {
       "venue": "ALLU Cinemas: Kokapet",
       "time": "10:50 PM",
@@ -78,14 +62,6 @@
       "date": "20260805",
       "cat": "3D GOLD",
       "price": "335.00",
-      "status": "2"
-    },
-    "PRHN|254168|20260805| EXECUTIVE + 3D Glass": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "07:25 PM",
-      "date": "20260805",
-      "cat": " EXECUTIVE + 3D Glass",
-      "price": "325.00",
       "status": "2"
     },
     "PRHN|251996|20260805|GOLD + 3D GlassL": {
@@ -152,22 +128,6 @@
       "price": "345.00",
       "status": "3"
     },
-    "ACAS|35264|20260805|3D PLATINUM": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "3D PLATINUM",
-      "price": "370.00",
-      "status": "3"
-    },
-    "ACAS|35264|20260805|3D GOLD": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "3D GOLD",
-      "price": "325.00",
-      "status": "3"
-    },
     "ACAS|35265|20260805|3D PLATINUM": {
       "venue": "AAA Cinemas: Ameerpet",
       "time": "10:35 PM",
@@ -183,54 +143,6 @@
       "cat": "3D GOLD",
       "price": "325.00",
       "status": "3"
-    },
-    "MMAH|58165|20260805|3D CLASSIC": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "06:15 PM",
-      "date": "20260805",
-      "cat": "3D CLASSIC",
-      "price": "335.00",
-      "status": "3"
-    },
-    "MMAH|58165|20260805|3D PRIME": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "06:15 PM",
-      "date": "20260805",
-      "cat": "3D PRIME",
-      "price": "335.00",
-      "status": "3"
-    },
-    "MMAH|58165|20260805|3D RECLINER": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "06:15 PM",
-      "date": "20260805",
-      "cat": "3D RECLINER",
-      "price": "394.00",
-      "status": "1"
-    },
-    "MMAH|58236|20260805|3D CLASSIC": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "3D CLASSIC",
-      "price": "335.00",
-      "status": "3"
-    },
-    "MMAH|58236|20260805|3D PRIME": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "3D PRIME",
-      "price": "335.00",
-      "status": "3"
-    },
-    "MMAH|58236|20260805|3D RECLINER": {
-      "venue": "MovieMax: AMR, ECIL Secunderabad",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "3D RECLINER",
-      "price": "394.00",
-      "status": "0"
     },
     "MMAH|58221|20260805|3D CLASSIC": {
       "venue": "MovieMax: AMR, ECIL Secunderabad",
@@ -278,7 +190,7 @@
       "date": "20260805",
       "cat": "3D RECLINER",
       "price": "394.00",
-      "status": "2"
+      "status": "1"
     },
     "MMAH|58237|20260805|3D CLASSIC": {
       "venue": "MovieMax: AMR, ECIL Secunderabad",
@@ -328,46 +240,6 @@
       "price": "394.00",
       "status": "3"
     },
-    "CTNR|10363|20260805|EXECUTIVE": {
-      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "06:55 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "345.00",
-      "status": "3"
-    },
-    "CTNR|10363|20260805|VIP": {
-      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "06:55 PM",
-      "date": "20260805",
-      "cat": "VIP",
-      "price": "400.00",
-      "status": "1"
-    },
-    "CTNR|9374|20260805|EXECUTIVE": {
-      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "07:35 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "345.00",
-      "status": "3"
-    },
-    "CTNR|10090|20260805|EXECUTIVE": {
-      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "07:50 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "345.00",
-      "status": "3"
-    },
-    "CTNR|10090|20260805|VIP": {
-      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
-      "time": "07:50 PM",
-      "date": "20260805",
-      "cat": "VIP",
-      "price": "400.00",
-      "status": "3"
-    },
     "CTNR|9745|20260805|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
       "time": "08:00 PM",
@@ -382,7 +254,7 @@
       "date": "20260805",
       "cat": "VIP",
       "price": "400.00",
-      "status": "3"
+      "status": "2"
     },
     "CTNR|10364|20260805|EXECUTIVE": {
       "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
@@ -440,68 +312,12 @@
       "price": "400.00",
       "status": "3"
     },
-    "ILKS|9084|20260805|LOUNGER ROWS": {
+    "ILKS|8992|20260805|LOUNGER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "06:55 PM",
+      "time": "08:00 PM",
       "date": "20260805",
       "cat": "LOUNGER ROWS",
       "price": "404.00",
-      "status": "3"
-    },
-    "ILKS|9084|20260805|RECLINER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "06:55 PM",
-      "date": "20260805",
-      "cat": "RECLINER ROWS",
-      "price": "404.00",
-      "status": "1"
-    },
-    "ILKS|9084|20260805|CLASSIC ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "06:55 PM",
-      "date": "20260805",
-      "cat": "CLASSIC ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
-    "ILKS|9084|20260805|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "06:55 PM",
-      "date": "20260805",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
-    "ILKS|9074|20260805|LOUNGER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "07:25 PM",
-      "date": "20260805",
-      "cat": "LOUNGER ROWS",
-      "price": "404.00",
-      "status": "3"
-    },
-    "ILKS|9074|20260805|RECLINER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "07:25 PM",
-      "date": "20260805",
-      "cat": "RECLINER ROWS",
-      "price": "404.00",
-      "status": "0"
-    },
-    "ILKS|9074|20260805|CLASSIC ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "07:25 PM",
-      "date": "20260805",
-      "cat": "CLASSIC ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
-    "ILKS|9074|20260805|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "07:25 PM",
-      "date": "20260805",
-      "cat": "PRIME ROWS",
-      "price": "345.00",
       "status": "3"
     },
     "ILKS|8992|20260805|RECLINER ROWS": {
@@ -512,27 +328,19 @@
       "price": "404.00",
       "status": "2"
     },
-    "ILKS|8992|20260805|LOUNGER ROWS": {
+    "ILKS|8992|20260805|PRIME ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "08:00 PM",
       "date": "20260805",
-      "cat": "LOUNGER ROWS",
-      "price": "404.00",
-      "status": "3"
+      "cat": "PRIME ROWS",
+      "price": "345.00",
+      "status": "2"
     },
     "ILKS|8992|20260805|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "08:00 PM",
       "date": "20260805",
       "cat": "CLASSIC ROWS",
-      "price": "345.00",
-      "status": "3"
-    },
-    "ILKS|8992|20260805|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "08:00 PM",
-      "date": "20260805",
-      "cat": "PRIME ROWS",
       "price": "345.00",
       "status": "3"
     },
@@ -550,7 +358,7 @@
       "date": "20260805",
       "cat": "RECLINER ROWS",
       "price": "404.00",
-      "status": "2"
+      "status": "1"
     },
     "ILKS|9085|20260805|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -574,7 +382,7 @@
       "date": "20260805",
       "cat": "LOUNGER ROWS",
       "price": "404.00",
-      "status": "3"
+      "status": "2"
     },
     "ILKS|9075|20260805|RECLINER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -614,7 +422,7 @@
       "date": "20260805",
       "cat": "RECLINER ROWS",
       "price": "404.00",
-      "status": "3"
+      "status": "0"
     },
     "ILKS|8993|20260805|CLASSIC ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -630,22 +438,6 @@
       "date": "20260805",
       "cat": "PRIME ROWS",
       "price": "345.00",
-      "status": "3"
-    },
-    "CPMH|5589|20260805|NORMAL": {
-      "venue": "Cinepolis: Lulu Mall, Hyderabad",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "NORMAL",
-      "price": "345.00",
-      "status": "3"
-    },
-    "CPMH|5589|20260805|VIP": {
-      "venue": "Cinepolis: Lulu Mall, Hyderabad",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "VIP",
-      "price": "400.00",
       "status": "2"
     },
     "CPMH|5584|20260805|NORMAL": {
@@ -696,22 +488,6 @@
       "price": "400.00",
       "status": "3"
     },
-    "IGMH|84912|20260805|ROYAL": {
-      "venue": "INOX: GSM Mall, Hyderabad",
-      "time": "07:25 PM",
-      "date": "20260805",
-      "cat": "ROYAL",
-      "price": "400.00",
-      "status": "1"
-    },
-    "IGMH|84912|20260805|EXECUTIVE": {
-      "venue": "INOX: GSM Mall, Hyderabad",
-      "time": "07:25 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "345.00",
-      "status": "3"
-    },
     "IGMH|84296|20260805|ROYAL": {
       "venue": "INOX: GSM Mall, Hyderabad",
       "time": "08:00 PM",
@@ -760,30 +536,6 @@
       "price": "345.00",
       "status": "3"
     },
-    "PIIC|31690|20260805|RECLINER ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "07:00 PM",
-      "date": "20260805",
-      "cat": "RECLINER ROWS",
-      "price": "758.00",
-      "status": "1"
-    },
-    "PIIC|31690|20260805|PRIME ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "07:00 PM",
-      "date": "20260805",
-      "cat": "PRIME ROWS",
-      "price": "450.00",
-      "status": "2"
-    },
-    "PIIC|31690|20260805|LOUNGERS ROWS": {
-      "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-      "time": "07:00 PM",
-      "date": "20260805",
-      "cat": "LOUNGERS ROWS",
-      "price": "450.00",
-      "status": "3"
-    },
     "PIIC|31854|20260805|CLASSIC": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
       "time": "07:45 PM",
@@ -798,7 +550,7 @@
       "date": "20260805",
       "cat": "RECLINER ROWS",
       "price": "758.00",
-      "status": "1"
+      "status": "0"
     },
     "PIIC|31691|20260805|PRIME ROWS": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
@@ -846,7 +598,7 @@
       "date": "20260805",
       "cat": "VIP",
       "price": "400.00",
-      "status": "2"
+      "status": "0"
     },
     "ABCS|6652|20260805|NORMAL": {
       "venue": "Cinepolis: DSL Virtue Mall Uppal, Hyderabad",
@@ -870,14 +622,6 @@
       "date": "20260805",
       "cat": "VIP",
       "price": "400.00",
-      "status": "2"
-    },
-    "PNNG|38498|20260805|CLASSIC": {
-      "venue": "PVR: Next Galleria Mall, Panjagutta",
-      "time": "07:25 PM",
-      "date": "20260805",
-      "cat": "CLASSIC",
-      "price": "345.00",
       "status": "3"
     },
     "PNNG|38483|20260805|RECLINER": {
@@ -952,30 +696,6 @@
       "price": "345.00",
       "status": "3"
     },
-    "MMCA|26019|20260805|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: CineTown, Miyapur",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "3D EXECUTIVE",
-      "price": "215.00",
-      "status": "3"
-    },
-    "MMCA|26019|20260805|3D GOLD": {
-      "venue": "Miraj Cinemas: CineTown, Miyapur",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "3D GOLD",
-      "price": "275.00",
-      "status": "3"
-    },
-    "MMCA|26019|20260805|3D EXECUTIVEP": {
-      "venue": "Miraj Cinemas: CineTown, Miyapur",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "3D EXECUTIVEP",
-      "price": "215.00",
-      "status": "3"
-    },
     "MMCA|26020|20260805|3D EXECUTIVE": {
       "venue": "Miraj Cinemas: CineTown, Miyapur",
       "time": "10:15 PM",
@@ -1000,22 +720,6 @@
       "price": "215.00",
       "status": "3"
     },
-    "CMMA|5382|20260805|NORMAL": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "NORMAL",
-      "price": "345.00",
-      "status": "3"
-    },
-    "CMMA|5382|20260805|VIP": {
-      "venue": "Cinepolis: Mantra Mall, Attapur",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "VIP",
-      "price": "400.00",
-      "status": "0"
-    },
     "CMMA|5778|20260805|NORMAL": {
       "venue": "Cinepolis: Mantra Mall, Attapur",
       "time": "08:10 PM",
@@ -1030,7 +734,7 @@
       "date": "20260805",
       "cat": "VIP",
       "price": "400.00",
-      "status": "2"
+      "status": "0"
     },
     "CMMA|5383|20260805|NORMAL": {
       "venue": "Cinepolis: Mantra Mall, Attapur",
@@ -1054,7 +758,7 @@
       "date": "20260805",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "1"
+      "status": "0"
     },
     "PVTS|23430|20260805|CLASSIC": {
       "venue": "PVR: Atrium Gachibowli, Hyderabad",
@@ -1102,7 +806,7 @@
       "date": "20260805",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "2"
+      "status": "1"
     },
     "PVTS|23402|20260805|CLASSIC": {
       "venue": "PVR: Atrium Gachibowli, Hyderabad",
@@ -1112,29 +816,13 @@
       "price": "345.00",
       "status": "3"
     },
-    "ISTN|55613|20260805|Royal": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "07:10 PM",
-      "date": "20260805",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "2"
-    },
-    "ISTN|55613|20260805|Executive": {
-      "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
-      "time": "07:10 PM",
-      "date": "20260805",
-      "cat": "Executive",
-      "price": "345.00",
-      "status": "3"
-    },
     "ISTN|55557|20260805|Royal": {
       "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
       "time": "07:30 PM",
       "date": "20260805",
       "cat": "Royal",
       "price": "400.00",
-      "status": "1"
+      "status": "2"
     },
     "ISTN|55557|20260805|Executive": {
       "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
@@ -1166,7 +854,7 @@
       "date": "20260805",
       "cat": "Royal",
       "price": "400.00",
-      "status": "3"
+      "status": "2"
     },
     "ISTN|55558|20260805|Executive": {
       "venue": "INOX: Sattva Necklace Mall, Kavadiguda",
@@ -1175,22 +863,6 @@
       "cat": "Executive",
       "price": "345.00",
       "status": "3"
-    },
-    "AMCA|71847|20260805|3D GOLD": {
-      "venue": "Asian M Cube Mall: Attapur",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "3D GOLD",
-      "price": "325.00",
-      "status": "3"
-    },
-    "AMCA|71847|20260805|3D RECLINERS": {
-      "venue": "Asian M Cube Mall: Attapur",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "3D RECLINERS",
-      "price": "380.00",
-      "status": "1"
     },
     "AMCA|71848|20260805|3D GOLD": {
       "venue": "Asian M Cube Mall: Attapur",
@@ -1206,7 +878,7 @@
       "date": "20260805",
       "cat": "3D RECLINERS",
       "price": "380.00",
-      "status": "3"
+      "status": "2"
     },
     "AKYJ|32219|20260805|ROYALE": {
       "venue": "INOX: Ashoka One, 4K LASER Dolby ATMOS: Kukatpally",
@@ -1240,22 +912,6 @@
       "price": "345.00",
       "status": "3"
     },
-    "CVMU|2557|20260805|3D PLATINUM SOFA": {
-      "venue": "Cineverse Multiplex: Uppal",
-      "time": "07:20 PM",
-      "date": "20260805",
-      "cat": "3D PLATINUM SOFA",
-      "price": "390.00",
-      "status": "2"
-    },
-    "CVMU|2557|20260805|3D GOLD": {
-      "venue": "Cineverse Multiplex: Uppal",
-      "time": "07:20 PM",
-      "date": "20260805",
-      "cat": "3D GOLD",
-      "price": "335.00",
-      "status": "3"
-    },
     "CVMU|2558|20260805|3D PLATINUM SOFA": {
       "venue": "Cineverse Multiplex: Uppal",
       "time": "10:30 PM",
@@ -1272,14 +928,6 @@
       "price": "335.00",
       "status": "3"
     },
-    "CPHY|78506|20260805|3D GOLD": {
-      "venue": "Asian Cineplanet Multiplex: Kompally",
-      "time": "07:35 PM",
-      "date": "20260805",
-      "cat": "3D GOLD",
-      "price": "325.00",
-      "status": "3"
-    },
     "CPHY|78214|20260805|3D GOLD": {
       "venue": "Asian Cineplanet Multiplex: Kompally",
       "time": "10:25 PM",
@@ -1288,29 +936,13 @@
       "price": "325.00",
       "status": "3"
     },
-    "PIMH|32444|20260805|RECLINER": {
-      "venue": "PVR: Irrum Manzil, Hyderabad",
-      "time": "07:20 PM",
-      "date": "20260805",
-      "cat": "RECLINER",
-      "price": "400.00",
-      "status": "2"
-    },
-    "PIMH|32444|20260805|CLASSIC": {
-      "venue": "PVR: Irrum Manzil, Hyderabad",
-      "time": "07:20 PM",
-      "date": "20260805",
-      "cat": "CLASSIC",
-      "price": "345.00",
-      "status": "3"
-    },
     "PIMH|32975|20260805|RECLINER": {
       "venue": "PVR: Irrum Manzil, Hyderabad",
       "time": "08:05 PM",
       "date": "20260805",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "2"
+      "status": "1"
     },
     "PIMH|32975|20260805|CLASSIC": {
       "venue": "PVR: Irrum Manzil, Hyderabad",
@@ -1352,37 +984,13 @@
       "price": "345.00",
       "status": "3"
     },
-    "IOMH|7610|20260805|RECLINER ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "06:55 PM",
-      "date": "20260805",
-      "cat": "RECLINER ROWS",
-      "price": "385.00",
-      "status": "2"
-    },
-    "IOMH|7610|20260805|PRIME ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "06:55 PM",
-      "date": "20260805",
-      "cat": "PRIME ROWS",
-      "price": "285.00",
-      "status": "3"
-    },
-    "IOMH|7610|20260805|CLASSIC ROWS": {
-      "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
-      "time": "06:55 PM",
-      "date": "20260805",
-      "cat": "CLASSIC ROWS",
-      "price": "235.00",
-      "status": "3"
-    },
     "IOMH|7526|20260805|RECLINER ROWS": {
       "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
       "time": "07:30 PM",
       "date": "20260805",
       "cat": "RECLINER ROWS",
       "price": "385.00",
-      "status": "2"
+      "status": "3"
     },
     "IOMH|7526|20260805|PRIME ROWS": {
       "venue": "INOX: Odeon 4K, LASER, ATMOS, DTS-X: RTC X Roads",
@@ -1448,22 +1056,6 @@
       "price": "235.00",
       "status": "3"
     },
-    "MCSS|71652|20260805|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "3D EXECUTIVE",
-      "price": "335.00",
-      "status": "3"
-    },
-    "MCSS|71652|20260805|3D GOLD": {
-      "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "3D GOLD",
-      "price": "390.00",
-      "status": "1"
-    },
     "MCSS|71653|20260805|3D EXECUTIVE": {
       "venue": "Miraj Cinemas: Shalini Shivani, Kothapet",
       "time": "10:15 PM",
@@ -1479,14 +1071,6 @@
       "cat": "3D GOLD",
       "price": "390.00",
       "status": "1"
-    },
-    "PVTP|18550|20260805|CLASSIC": {
-      "venue": "PVR: Preston, Gachibowli Hyderabad",
-      "time": "07:00 PM",
-      "date": "20260805",
-      "cat": "CLASSIC",
-      "price": "345.00",
-      "status": "3"
     },
     "PVTP|18686|20260805|CLASSIC": {
       "venue": "PVR: Preston, Gachibowli Hyderabad",
@@ -1512,109 +1096,13 @@
       "price": "345.00",
       "status": "3"
     },
-    "JJPP|30621|20260805|3D RECLINER": {
-      "venue": "JP Cinemas: Chandanagar",
-      "time": "07:40 PM",
-      "date": "20260805",
-      "cat": "3D RECLINER",
-      "price": "380.00",
-      "status": "3"
-    },
-    "JJPP|30621|20260805|3D GOLD": {
-      "venue": "JP Cinemas: Chandanagar",
-      "time": "07:40 PM",
-      "date": "20260805",
-      "cat": "3D GOLD",
-      "price": "325.00",
-      "status": "3"
-    },
-    "DVRR|3603|20260805|3D LOWER BALCONY": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "06:00 PM",
-      "date": "20260805",
-      "cat": "3D LOWER BALCONY",
-      "price": "250.00",
-      "status": "3"
-    },
-    "DVRR|3603|20260805|3D UPPER BALCONY": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "06:00 PM",
-      "date": "20260805",
-      "cat": "3D UPPER BALCONY",
-      "price": "250.00",
-      "status": "3"
-    },
-    "DVRR|3603|20260805|3D FIRST CLASS": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "06:00 PM",
-      "date": "20260805",
-      "cat": "3D FIRST CLASS",
-      "price": "180.00",
-      "status": "3"
-    },
-    "DVRR|3603|20260805|3D SECOND CLASS": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "06:00 PM",
-      "date": "20260805",
-      "cat": "3D SECOND CLASS",
-      "price": "130.00",
-      "status": "3"
-    },
-    "DVRR|3604|20260805|3D LOWER BALCONY": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "09:30 PM",
-      "date": "20260805",
-      "cat": "3D LOWER BALCONY",
-      "price": "250.00",
-      "status": "3"
-    },
-    "DVRR|3604|20260805|3D UPPER BALCONY": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "09:30 PM",
-      "date": "20260805",
-      "cat": "3D UPPER BALCONY",
-      "price": "250.00",
-      "status": "3"
-    },
-    "DVRR|3604|20260805|3D FIRST CLASS": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "09:30 PM",
-      "date": "20260805",
-      "cat": "3D FIRST CLASS",
-      "price": "180.00",
-      "status": "3"
-    },
-    "DVRR|3604|20260805|3D SECOND CLASS": {
-      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
-      "time": "09:30 PM",
-      "date": "20260805",
-      "cat": "3D SECOND CLASS",
-      "price": "130.00",
-      "status": "3"
-    },
-    "INHY|133393|20260805|Royal": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "07:10 PM",
-      "date": "20260805",
-      "cat": "Royal",
-      "price": "400.00",
-      "status": "0"
-    },
-    "INHY|133393|20260805|Executive": {
-      "venue": "INOX GVK One, Banjara Hills: Hyderabad",
-      "time": "07:10 PM",
-      "date": "20260805",
-      "cat": "Executive",
-      "price": "345.00",
-      "status": "2"
-    },
     "INHY|133363|20260805|Royal": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
       "time": "07:45 PM",
       "date": "20260805",
       "cat": "Royal",
       "price": "400.00",
-      "status": "1"
+      "status": "2"
     },
     "INHY|133363|20260805|Executive": {
       "venue": "INOX GVK One, Banjara Hills: Hyderabad",
@@ -1656,20 +1144,36 @@
       "price": "345.00",
       "status": "3"
     },
-    "PVHM|25799|20260805|RECLINER": {
-      "venue": "PVR ICON: Hitech, Madhapur, Hyderabad",
-      "time": "07:15 PM",
+    "DVRR|3604|20260805|3D LOWER BALCONY": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "09:30 PM",
       "date": "20260805",
-      "cat": "RECLINER",
-      "price": "400.00",
-      "status": "0"
+      "cat": "3D LOWER BALCONY",
+      "price": "250.00",
+      "status": "3"
     },
-    "PVHM|25799|20260805|CLASSIC": {
-      "venue": "PVR ICON: Hitech, Madhapur, Hyderabad",
-      "time": "07:15 PM",
+    "DVRR|3604|20260805|3D UPPER BALCONY": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "09:30 PM",
       "date": "20260805",
-      "cat": "CLASSIC",
-      "price": "345.00",
+      "cat": "3D UPPER BALCONY",
+      "price": "250.00",
+      "status": "3"
+    },
+    "DVRR|3604|20260805|3D FIRST CLASS": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "09:30 PM",
+      "date": "20260805",
+      "cat": "3D FIRST CLASS",
+      "price": "180.00",
+      "status": "3"
+    },
+    "DVRR|3604|20260805|3D SECOND CLASS": {
+      "venue": "Devi 70MM 4K Laser & Dolby Atmos: RTC X Roads",
+      "time": "09:30 PM",
+      "date": "20260805",
+      "cat": "3D SECOND CLASS",
+      "price": "130.00",
       "status": "3"
     },
     "PVHM|25411|20260805|RECLINER": {
@@ -1678,7 +1182,7 @@
       "date": "20260805",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "0"
+      "status": "3"
     },
     "PVHM|25411|20260805|CLASSIC": {
       "venue": "PVR ICON: Hitech, Madhapur, Hyderabad",
@@ -1704,37 +1208,29 @@
       "price": "345.00",
       "status": "3"
     },
-    "SNKH|16548|20260805|RECLINER": {
-      "venue": "Asian Mukta A2 Sensation Cinema: Kairathabad",
-      "time": "06:30 PM",
+    "PVUM|27631|20260805|RECLINER": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "07:30 PM",
       "date": "20260805",
       "cat": "RECLINER",
-      "price": "255.00",
+      "price": "400.00",
+      "status": "0"
+    },
+    "PVUM|27631|20260805|CLASSIC": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "07:30 PM",
+      "date": "20260805",
+      "cat": "CLASSIC",
+      "price": "345.00",
       "status": "3"
     },
-    "SNKH|16548|20260805|PREMIUM SOFA": {
-      "venue": "Asian Mukta A2 Sensation Cinema: Kairathabad",
-      "time": "06:30 PM",
+    "PVUM|27814|20260805|CLASSIC": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "10:00 PM",
       "date": "20260805",
-      "cat": "PREMIUM SOFA",
-      "price": "195.00",
+      "cat": "CLASSIC",
+      "price": "345.00",
       "status": "3"
-    },
-    "SNKH|16548|20260805|GOLD": {
-      "venue": "Asian Mukta A2 Sensation Cinema: Kairathabad",
-      "time": "06:30 PM",
-      "date": "20260805",
-      "cat": "GOLD",
-      "price": "170.00",
-      "status": "3"
-    },
-    "SNKH|16548|20260805|SILVER": {
-      "venue": "Asian Mukta A2 Sensation Cinema: Kairathabad",
-      "time": "06:30 PM",
-      "date": "20260805",
-      "cat": "SILVER",
-      "price": "70.00",
-      "status": "2"
     },
     "SNKH|16549|20260805|RECLINER": {
       "venue": "Asian Mukta A2 Sensation Cinema: Kairathabad",
@@ -1768,37 +1264,13 @@
       "price": "70.00",
       "status": "2"
     },
-    "PVUM|27631|20260805|RECLINER": {
-      "venue": "PVR: Musarambagh, Hyderabad",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "RECLINER",
-      "price": "400.00",
-      "status": "0"
-    },
-    "PVUM|27631|20260805|CLASSIC": {
-      "venue": "PVR: Musarambagh, Hyderabad",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "CLASSIC",
-      "price": "345.00",
-      "status": "3"
-    },
-    "PVUM|27814|20260805|CLASSIC": {
-      "venue": "PVR: Musarambagh, Hyderabad",
-      "time": "10:00 PM",
-      "date": "20260805",
-      "cat": "CLASSIC",
-      "price": "345.00",
-      "status": "3"
-    },
     "IPRS|16033|20260805|RECLINER": {
       "venue": "INOX: Prism Mall, Hyderabad",
       "time": "07:45 PM",
       "date": "20260805",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "1"
+      "status": "2"
     },
     "IPRS|16033|20260805|CLASSIC": {
       "venue": "INOX: Prism Mall, Hyderabad",
@@ -1814,7 +1286,7 @@
       "date": "20260805",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "0"
+      "status": "2"
     },
     "IPRS|16329|20260805|CLASSIC": {
       "venue": "INOX: Prism Mall, Hyderabad",
@@ -1846,7 +1318,7 @@
       "date": "20260805",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "1"
+      "status": "2"
     },
     "IPRS|16330|20260805|CLASSIC": {
       "venue": "INOX: Prism Mall, Hyderabad",
@@ -1854,38 +1326,6 @@
       "date": "20260805",
       "cat": "CLASSIC",
       "price": "345.00",
-      "status": "3"
-    },
-    "MTHY|78303|20260805|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "07:00 PM",
-      "date": "20260805",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MTHY|78319|20260805|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "08:00 PM",
-      "date": "20260805",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MTHY|78304|20260805|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "09:50 PM",
-      "date": "20260805",
-      "cat": "3D RECLINER",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MTHY|78320|20260805|3D RECLINER": {
-      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
-      "time": "10:45 PM",
-      "date": "20260805",
-      "cat": "3D RECLINER",
-      "price": "400.00",
       "status": "3"
     },
     "MRAD|6668|20260805|3D EXECUTIVE": {
@@ -1904,12 +1344,28 @@
       "price": "335.00",
       "status": "3"
     },
-    "PVYH|23503|20260805|CLASSIC": {
-      "venue": "PVR: Central Mall, Panjagutta",
-      "time": "07:05 PM",
+    "MTHY|78319|20260805|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "08:00 PM",
       "date": "20260805",
-      "cat": "CLASSIC",
-      "price": "285.00",
+      "cat": "3D RECLINER",
+      "price": "400.00",
+      "status": "2"
+    },
+    "MTHY|78304|20260805|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "09:50 PM",
+      "date": "20260805",
+      "cat": "3D RECLINER",
+      "price": "400.00",
+      "status": "0"
+    },
+    "MTHY|78320|20260805|3D RECLINER": {
+      "venue": "Platinum Movietime Cinema: Gachibowli SLN Terminus",
+      "time": "10:45 PM",
+      "date": "20260805",
+      "cat": "3D RECLINER",
+      "price": "400.00",
       "status": "3"
     },
     "PVYH|23541|20260805|CLASSIC": {
@@ -1933,6 +1389,22 @@
       "time": "11:00 PM",
       "date": "20260805",
       "cat": "CLASSIC",
+      "price": "285.00",
+      "status": "3"
+    },
+    "INMH|110009|20260805|Executive": {
+      "venue": "INOX: Maheshwari Parmeshwari Mall, Kachiguda",
+      "time": "08:00 PM",
+      "date": "20260805",
+      "cat": "Executive",
+      "price": "285.00",
+      "status": "3"
+    },
+    "INMH|109798|20260805|Executive": {
+      "venue": "INOX: Maheshwari Parmeshwari Mall, Kachiguda",
+      "time": "10:40 PM",
+      "date": "20260805",
+      "cat": "Executive",
       "price": "285.00",
       "status": "3"
     },
@@ -1968,29 +1440,13 @@
       "price": "390.00",
       "status": "3"
     },
-    "INMH|110009|20260805|Executive": {
-      "venue": "INOX: Maheshwari Parmeshwari Mall, Kachiguda",
-      "time": "08:00 PM",
-      "date": "20260805",
-      "cat": "Executive",
-      "price": "285.00",
-      "status": "3"
-    },
-    "INMH|109798|20260805|Executive": {
-      "venue": "INOX: Maheshwari Parmeshwari Mall, Kachiguda",
-      "time": "10:40 PM",
-      "date": "20260805",
-      "cat": "Executive",
-      "price": "285.00",
-      "status": "3"
-    },
     "PRCX|13538|20260805|RECLINER": {
       "venue": "PVR: RK Cineplex, Hyderabad",
       "time": "07:30 PM",
       "date": "20260805",
       "cat": "RECLINER",
       "price": "400.00",
-      "status": "2"
+      "status": "3"
     },
     "PRCX|13538|20260805|CLASSIC": {
       "venue": "PVR: RK Cineplex, Hyderabad",
@@ -2016,92 +1472,20 @@
       "price": "345.00",
       "status": "3"
     },
-    "CPCL|5160|20260805|EXECUTIVE": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "06:15 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "290.00",
-      "status": "3"
-    },
-    "CPCL|5160|20260805|PREMIUM": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "06:15 PM",
-      "date": "20260805",
-      "cat": "PREMIUM",
-      "price": "290.00",
-      "status": "3"
-    },
-    "CPCL|5030|20260805|EXECUTIVE": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "290.00",
-      "status": "3"
-    },
-    "CPCL|5030|20260805|PREMIUM": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "PREMIUM",
-      "price": "290.00",
-      "status": "3"
-    },
-    "CPCL|5161|20260805|EXECUTIVE": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "09:30 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "290.00",
-      "status": "3"
-    },
-    "CPCL|5161|20260805|PREMIUM": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "09:30 PM",
-      "date": "20260805",
-      "cat": "PREMIUM",
-      "price": "290.00",
-      "status": "3"
-    },
-    "CPCL|5031|20260805|EXECUTIVE": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "10:20 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "290.00",
-      "status": "3"
-    },
-    "CPCL|5031|20260805|PREMIUM": {
-      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
-      "time": "10:20 PM",
-      "date": "20260805",
-      "cat": "PREMIUM",
-      "price": "290.00",
-      "status": "3"
-    },
     "IVNM|8093|20260805|RECLINER ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "07:45 PM",
       "date": "20260805",
       "cat": "RECLINER ROWS",
       "price": "385.00",
-      "status": "3"
-    },
-    "IVNM|8093|20260805|CLASSIC ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "07:45 PM",
-      "date": "20260805",
-      "cat": "CLASSIC ROWS",
-      "price": "330.00",
-      "status": "3"
+      "status": "1"
     },
     "IVNM|8093|20260805|PRIME PLUS ROWS": {
       "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
       "time": "07:45 PM",
       "date": "20260805",
       "cat": "PRIME PLUS ROWS",
-      "price": "330.00",
+      "price": "285.00",
       "status": "3"
     },
     "IVNM|8093|20260805|PRIME ROWS": {
@@ -2109,7 +1493,15 @@
       "time": "07:45 PM",
       "date": "20260805",
       "cat": "PRIME ROWS",
-      "price": "330.00",
+      "price": "235.00",
+      "status": "3"
+    },
+    "IVNM|8093|20260805|CLASSIC ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "07:45 PM",
+      "date": "20260805",
+      "cat": "CLASSIC ROWS",
+      "price": "185.00",
       "status": "3"
     },
     "IVNM|8094|20260805|RECLINER ROWS": {
@@ -2118,14 +1510,6 @@
       "date": "20260805",
       "cat": "RECLINER ROWS",
       "price": "385.00",
-      "status": "3"
-    },
-    "IVNM|8094|20260805|CLASSIC ROWS": {
-      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
-      "time": "10:45 PM",
-      "date": "20260805",
-      "cat": "CLASSIC ROWS",
-      "price": "330.00",
       "status": "3"
     },
     "IVNM|8094|20260805|PRIME PLUS ROWS": {
@@ -2141,6 +1525,14 @@
       "time": "10:45 PM",
       "date": "20260805",
       "cat": "PRIME ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
+    "IVNM|8094|20260805|CLASSIC ROWS": {
+      "venue": "INOX: SMR Vinay Metro Mall, Dolby ATMOS: Miyapur",
+      "time": "10:45 PM",
+      "date": "20260805",
+      "cat": "CLASSIC ROWS",
       "price": "330.00",
       "status": "3"
     },
@@ -2176,20 +1568,36 @@
       "price": "185.00",
       "status": "3"
     },
-    "MRGT|37668|20260805|3D GOLD": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "07:00 PM",
+    "CPCL|5161|20260805|EXECUTIVE": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "09:30 PM",
       "date": "20260805",
-      "cat": "3D GOLD",
-      "price": "390.00",
+      "cat": "EXECUTIVE",
+      "price": "290.00",
       "status": "3"
     },
-    "MRGT|37668|20260805|3D EXECUTIVE": {
-      "venue": "Miraj Cinemas: Geeta, Chandanagar",
-      "time": "07:00 PM",
+    "CPCL|5161|20260805|PREMIUM": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "09:30 PM",
       "date": "20260805",
-      "cat": "3D EXECUTIVE",
-      "price": "335.00",
+      "cat": "PREMIUM",
+      "price": "290.00",
+      "status": "3"
+    },
+    "CPCL|5031|20260805|EXECUTIVE": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "10:20 PM",
+      "date": "20260805",
+      "cat": "EXECUTIVE",
+      "price": "290.00",
+      "status": "3"
+    },
+    "CPCL|5031|20260805|PREMIUM": {
+      "venue": "Cinepolis: CCPL Mall Malkajgiri, Hyderabad",
+      "time": "10:20 PM",
+      "date": "20260805",
+      "cat": "PREMIUM",
+      "price": "290.00",
       "status": "3"
     },
     "MRGT|37669|20260805|3D GOLD": {
@@ -2208,54 +1616,6 @@
       "price": "335.00",
       "status": "3"
     },
-    "VRKC|18430|20260805|3D Premium": {
-      "venue": "Indra Venkataramana Padmavati Cinema: Kachiguda",
-      "time": "06:00 PM",
-      "date": "20260805",
-      "cat": "3D Premium",
-      "price": "180.00",
-      "status": "3"
-    },
-    "VRKC|18430|20260805|3D Elite Recliners": {
-      "venue": "Indra Venkataramana Padmavati Cinema: Kachiguda",
-      "time": "06:00 PM",
-      "date": "20260805",
-      "cat": "3D Elite Recliners",
-      "price": "265.00",
-      "status": "3"
-    },
-    "VRKC|18430|20260805|3D Elite Sofa": {
-      "venue": "Indra Venkataramana Padmavati Cinema: Kachiguda",
-      "time": "06:00 PM",
-      "date": "20260805",
-      "cat": "3D Elite Sofa",
-      "price": "205.00",
-      "status": "3"
-    },
-    "VRKC|18430|20260805|3D Economy": {
-      "venue": "Indra Venkataramana Padmavati Cinema: Kachiguda",
-      "time": "06:00 PM",
-      "date": "20260805",
-      "cat": "3D Economy",
-      "price": "80.00",
-      "status": "3"
-    },
-    "TVHY|47645|20260805|3D GOLD UPPER": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "07:40 PM",
-      "date": "20260805",
-      "cat": "3D GOLD UPPER",
-      "price": "325.00",
-      "status": "3"
-    },
-    "TVHY|47645|20260805|3D GOLD LOWER": {
-      "venue": "Tivoli Cinemas: Secunderabad",
-      "time": "07:40 PM",
-      "date": "20260805",
-      "cat": "3D GOLD LOWER",
-      "price": "325.00",
-      "status": "3"
-    },
     "TVHY|47646|20260805|3D GOLD UPPER": {
       "venue": "Tivoli Cinemas: Secunderabad",
       "time": "10:40 PM",
@@ -2270,94 +1630,6 @@
       "date": "20260805",
       "cat": "3D GOLD LOWER",
       "price": "325.00",
-      "status": "3"
-    },
-    "PSMJ|14583|20260805|3D SILVER": {
-      "venue": "Movietime Cinemas: SKY Mall, Erragadda X Road",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "3D SILVER",
-      "price": "250.00",
-      "status": "3"
-    },
-    "PSMJ|14583|20260805|3D GOLD": {
-      "venue": "Movietime Cinemas: SKY Mall, Erragadda X Road",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "3D GOLD",
-      "price": "250.00",
-      "status": "3"
-    },
-    "PSMJ|14583|20260805|3D SOFA": {
-      "venue": "Movietime Cinemas: SKY Mall, Erragadda X Road",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "3D SOFA",
-      "price": "250.00",
-      "status": "3"
-    },
-    "STHD|3873|20260805|NORMAL": {
-      "venue": "Cinepolis: Sudha Cinemas, Hyderabad",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "NORMAL",
-      "price": "290.00",
-      "status": "3"
-    },
-    "STHD|3873|20260805|EXECUTIVE": {
-      "venue": "Cinepolis: Sudha Cinemas, Hyderabad",
-      "time": "07:30 PM",
-      "date": "20260805",
-      "cat": "EXECUTIVE",
-      "price": "290.00",
-      "status": "3"
-    },
-    "UKCC|30557|20260805|Recliner": {
-      "venue": "UK Cineplex: Nacharam, Hyderabad",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "Recliner",
-      "price": "380.00",
-      "status": "3"
-    },
-    "UKCC|30557|20260805|Gold": {
-      "venue": "UK Cineplex: Nacharam, Hyderabad",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "Gold",
-      "price": "325.00",
-      "status": "3"
-    },
-    "UKCC|30557|20260805|Silver": {
-      "venue": "UK Cineplex: Nacharam, Hyderabad",
-      "time": "07:15 PM",
-      "date": "20260805",
-      "cat": "Silver",
-      "price": "280.00",
-      "status": "3"
-    },
-    "UKCC|30561|20260805|Recliner": {
-      "venue": "UK Cineplex: Nacharam, Hyderabad",
-      "time": "10:00 PM",
-      "date": "20260805",
-      "cat": "Recliner",
-      "price": "380.00",
-      "status": "3"
-    },
-    "UKCC|30561|20260805|Gold": {
-      "venue": "UK Cineplex: Nacharam, Hyderabad",
-      "time": "10:00 PM",
-      "date": "20260805",
-      "cat": "Gold",
-      "price": "325.00",
-      "status": "3"
-    },
-    "UKCC|30561|20260805|Silver": {
-      "venue": "UK Cineplex: Nacharam, Hyderabad",
-      "time": "10:00 PM",
-      "date": "20260805",
-      "cat": "Silver",
-      "price": "280.00",
       "status": "3"
     },
     "MRRG|24744|20260805|3D EXECUTIVE": {
@@ -2408,28 +1680,28 @@
       "price": "215.00",
       "status": "3"
     },
-    "TRHY|6013|20260805|3D RECLINER": {
-      "venue": "Asian Tarakarama Cineplex: Kachiguda",
-      "time": "06:30 PM",
+    "UKCC|30561|20260805|Recliner": {
+      "venue": "UK Cineplex: Nacharam, Hyderabad",
+      "time": "10:00 PM",
       "date": "20260805",
-      "cat": "3D RECLINER",
-      "price": "255.00",
+      "cat": "Recliner",
+      "price": "380.00",
       "status": "3"
     },
-    "TRHY|6013|20260805|3D BALCONY SOFA": {
-      "venue": "Asian Tarakarama Cineplex: Kachiguda",
-      "time": "06:30 PM",
+    "UKCC|30561|20260805|Gold": {
+      "venue": "UK Cineplex: Nacharam, Hyderabad",
+      "time": "10:00 PM",
       "date": "20260805",
-      "cat": "3D BALCONY SOFA",
-      "price": "180.00",
+      "cat": "Gold",
+      "price": "325.00",
       "status": "3"
     },
-    "TRHY|6013|20260805|3D LOWER CLASS": {
-      "venue": "Asian Tarakarama Cineplex: Kachiguda",
-      "time": "06:30 PM",
+    "UKCC|30561|20260805|Silver": {
+      "venue": "UK Cineplex: Nacharam, Hyderabad",
+      "time": "10:00 PM",
       "date": "20260805",
-      "cat": "3D LOWER CLASS",
-      "price": "80.00",
+      "cat": "Silver",
+      "price": "280.00",
       "status": "3"
     },
     "TRHY|6014|20260805|3D RECLINER": {
@@ -2454,22 +1726,6 @@
       "date": "20260805",
       "cat": "3D LOWER CLASS",
       "price": "80.00",
-      "status": "3"
-    },
-    "CPLK|5843|20260805|3D MILLER": {
-      "venue": "Connplex Cinemas: MPM Mall, Banjara Hills",
-      "time": "07:20 PM",
-      "date": "20260805",
-      "cat": "3D MILLER",
-      "price": "325.00",
-      "status": "3"
-    },
-    "CPLK|5843|20260805|3D LOUNGER": {
-      "venue": "Connplex Cinemas: MPM Mall, Banjara Hills",
-      "time": "07:20 PM",
-      "date": "20260805",
-      "cat": "3D LOUNGER",
-      "price": "325.00",
       "status": "3"
     },
     "RCNH|2372|20260805|ROYAL RECLINER": {
